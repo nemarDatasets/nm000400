@@ -1,0 +1,145 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Kauvar I": {},
+    "Richman EB": {},
+    "Liu TX": {},
+    "Li C": {},
+    "Vesuna S": {},
+    "Chibukhchyan A": {},
+    "Yamada L": {},
+    "Fogarty A": {},
+    "Solomon E": {},
+    "Choi EY": {},
+    "Mortazavi L": {},
+    "Chau Loo Kung G": {},
+    "Mukunda P": {},
+    "Raja C": {},
+    "Gil-Hernández D": {},
+    "Patron K": {},
+    "Zhang X": {},
+    "Brawer J": {},
+    "Wrobel S": {},
+    "Lusk Z": {},
+    "Lyu D": {},
+    "Mitra A": {},
+    "Hack L": {},
+    "Luo L": {},
+    "Grosenick L": {},
+    "van Roessel P": {},
+    "Williams LM": {},
+    "Heifets BD": {},
+    "Henderson JM": {},
+    "McNab JA": {},
+    "Rodríguez CI": {},
+    "Buch V": {},
+    "Nuyujukian P": {},
+    "Deisseroth K": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.48324/dandi.001347/0.250528.0702",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "10.1126/science.adt3971",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000400",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000400",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "funding_references": [
+    {
+      "funder_name": "Howard Hughes Medical Institute"
+    },
+    {
+      "funder_name": "NIH NIDA",
+      "award_number": "P50 DA042012"
+    },
+    {
+      "funder_name": "NIH NIMH",
+      "award_number": "T32 MH019938"
+    },
+    {
+      "funder_name": "NIH NIMH",
+      "award_number": "R01 MH131534"
+    },
+    {
+      "funder_name": "NIH NIMH",
+      "award_number": "R01 MH133553"
+    },
+    {
+      "funder_name": "NIH NIMH",
+      "award_number": "R01 MH105461"
+    },
+    {
+      "funder_name": "NIH NIMH",
+      "award_number": "U54 MH091657"
+    },
+    {
+      "funder_name": "NIH NIMH",
+      "award_number": "R01 MH086373"
+    },
+    {
+      "funder_name": "NIH NINDS",
+      "award_number": "R01 NS095985"
+    }
+  ],
+  "title": "Brain-wide human sEEG during aversive eyepuffs and ketamine infusion (Kauvar, Richman, Liu et al. 2025; DANDI 001347)",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "ieeg"
+  ],
+  "resource_type_specific": "iEEG Dataset",
+  "sizes": [
+    "12.24 GB (105 files)"
+  ],
+  "formats": [
+    ".eeg",
+    ".json",
+    ".nwb",
+    ".tsv",
+    ".vhdr",
+    ".vmrk"
+  ],
+  "description": "Stereo-EEG recordings from seven adult epilepsy patients undergoing extended clinical monitoring at Stanford Hospital, collected during brief aversive air puffs to the eye and during a 40-minute ketamine infusion (0.5 mg/kg). This BIDS-iEEG derivative represents the authors' NWB release (DANDI 001347), downsampled to 200 Hz, with 20-minute windows per recording and contact labels but no coordinates. The data support study of the brain-wide emergence of emotional responses to sensory experience and their modulation by a dissociative drug.",
+  "methods_description": "sEEG was recorded with a Nihon Kohden JE-120 amplifier in patients with clinically placed depth electrodes. Signals were low-pass filtered with an FIR anti-aliasing filter and downsampled to 200 Hz, and 20-minute windows (10 min before and after the start of the eyepuff series) were exported to NWB. NWB files were converted to BrainVision float32 microvolts for BIDS-iEEG, with no further filtering or re-referencing.",
+  "keywords": [
+    {
+      "term": "stereo-EEG"
+    },
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "Ketamine",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D007649"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    },
+    {
+      "term": "aversive stimulation"
+    },
+    {
+      "term": "emotion"
+    }
+  ],
+  "source_hash": "475b069daf459265015cd7ad99919762878629f7e16bc040ff023008ec97f098"
+}
