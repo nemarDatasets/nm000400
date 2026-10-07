@@ -1,0 +1,89 @@
+name	type	units	low_cutoff	high_cutoff	status	status_description	group	location_label	source_electrode_row
+LaTH1	SEEG	µV	n/a	n/a	good	n/a	LaTH	THAL ANT	0
+LaTH2	SEEG	µV	n/a	n/a	good	n/a	LaTH	WM	1
+LaTH3	SEEG	µV	n/a	n/a	good	n/a	LaTH	WM	2
+LaTH4	SEEG	µV	n/a	n/a	good	n/a	LaTH	WM	3
+LaTH5	SEEG	µV	n/a	n/a	good	n/a	LaTH	BG	4
+LaTH6	SEEG	µV	n/a	n/a	good	n/a	LaTH	BG	5
+LaTH7	SEEG	µV	n/a	n/a	good	n/a	LaTH	INS	6
+LaTH8	SEEG	µV	n/a	n/a	good	n/a	LaTH	INS	7
+LaTH9	SEEG	µV	n/a	n/a	good	n/a	LaTH	IFG	8
+LaTH10	SEEG	µV	n/a	n/a	good	n/a	LaTH	IFG	9
+LaTH11	SEEG	µV	n/a	n/a	good	n/a	LaTH	IFG	10
+LaTH12	SEEG	µV	n/a	n/a	good	n/a	LaTH	IFG	11
+LaTH13	SEEG	µV	n/a	n/a	good	n/a	LaTH	OUT OF BRAIN	12
+LaTH14	SEEG	µV	n/a	n/a	good	n/a	LaTH	OUT OF BRAIN	13
+LPTH1	SEEG	µV	n/a	n/a	good	n/a	LPTH	THAL POS	14
+LPTH2	SEEG	µV	n/a	n/a	good	n/a	LPTH	THAL POS	15
+LPTH3	SEEG	µV	n/a	n/a	good	n/a	LPTH	THAL POS	16
+LPTH4	SEEG	µV	n/a	n/a	good	n/a	LPTH	THAL POS	17
+LPTH5	SEEG	µV	n/a	n/a	good	n/a	LPTH	WM	18
+LPTH6	SEEG	µV	n/a	n/a	good	n/a	LPTH	WM	19
+LPTH7	SEEG	µV	n/a	n/a	good	n/a	LPTH	SMG	20
+LPTH8	SEEG	µV	n/a	n/a	good	n/a	LPTH	SMG	21
+LPTH9	SEEG	µV	n/a	n/a	good	n/a	LPTH	SMG	22
+LPTH10	SEEG	µV	n/a	n/a	good	n/a	LPTH	SMG	23
+LPTH11	SEEG	µV	n/a	n/a	good	n/a	LPTH	SMG	24
+LPTH12	SEEG	µV	n/a	n/a	good	n/a	LPTH	SMG	25
+LPTH13	SEEG	µV	n/a	n/a	good	n/a	LPTH	SMG	26
+LPTH14	SEEG	µV	n/a	n/a	good	n/a	LPTH	OUT OF BRAIN	27
+LORF1	SEEG	µV	n/a	n/a	good	n/a	LORF	ORB	28
+LORF2	SEEG	µV	n/a	n/a	good	n/a	LORF	ORB	29
+LORF3	SEEG	µV	n/a	n/a	good	n/a	LORF	ORB	30
+LORF4	SEEG	µV	n/a	n/a	good	n/a	LORF	ORB	31
+LORF5	SEEG	µV	n/a	n/a	good	n/a	LORF	ORB	32
+LORF6	SEEG	µV	n/a	n/a	good	n/a	LORF	ORB	33
+LORF7	SEEG	µV	n/a	n/a	good	n/a	LORF	ORB	34
+LORF8	SEEG	µV	n/a	n/a	good	n/a	LORF	ORB	35
+LORF9	SEEG	µV	n/a	n/a	good	n/a	LORF	IFG	36
+LORF10	SEEG	µV	n/a	n/a	good	n/a	LORF	IFG	37
+LORF11	SEEG	µV	n/a	n/a	good	n/a	LORF	IFG	38
+LORF12	SEEG	µV	n/a	n/a	good	n/a	LORF	IFG	39
+LORF13	SEEG	µV	n/a	n/a	good	n/a	LORF	IFG	40
+LORF14	SEEG	µV	n/a	n/a	good	n/a	LORF	OUT OF BRAIN	41
+LAMY1	SEEG	µV	n/a	n/a	good	n/a	LAMY	AMY	42
+LAMY2	SEEG	µV	n/a	n/a	good	n/a	LAMY	AMY	43
+LAMY3	SEEG	µV	n/a	n/a	good	n/a	LAMY	AMY	44
+LAMY4	SEEG	µV	n/a	n/a	good	n/a	LAMY	WM	45
+LAMY5	SEEG	µV	n/a	n/a	good	n/a	LAMY	INS	46
+LAMY6	SEEG	µV	n/a	n/a	good	n/a	LAMY	INS	47
+LAMY7	SEEG	µV	n/a	n/a	good	n/a	LAMY	MTG	48
+LAMY8	SEEG	µV	n/a	n/a	good	n/a	LAMY	MTG	49
+LAMY9	SEEG	µV	n/a	n/a	good	n/a	LAMY	MTG	50
+LAMY10	SEEG	µV	n/a	n/a	good	n/a	LAMY	MTG	51
+LAMY11	SEEG	µV	n/a	n/a	good	n/a	LAMY	MTG	52
+LAMY12	SEEG	µV	n/a	n/a	good	n/a	LAMY	OUT OF BRAIN	53
+LpHP1	SEEG	µV	n/a	n/a	good	n/a	LpHP	HIPP	54
+LpHP2	SEEG	µV	n/a	n/a	good	n/a	LpHP	HIPP	55
+LpHP3	SEEG	µV	n/a	n/a	good	n/a	LpHP	WM	56
+LpHP4	SEEG	µV	n/a	n/a	good	n/a	LpHP	FG	57
+LpHP5	SEEG	µV	n/a	n/a	good	n/a	LpHP	CS	58
+LpHP6	SEEG	µV	n/a	n/a	good	n/a	LpHP	WM	59
+LpHP7	SEEG	µV	n/a	n/a	good	n/a	LpHP	ITG	60
+LpHP8	SEEG	µV	n/a	n/a	good	n/a	LpHP	ITG	61
+LpHP9	SEEG	µV	n/a	n/a	good	n/a	LpHP	ITG	62
+LpHP10	SEEG	µV	n/a	n/a	good	n/a	LpHP	OUT OF BRAIN	63
+LaHP1	SEEG	µV	n/a	n/a	good	n/a	LaHP	HIPP	64
+LaHP2	SEEG	µV	n/a	n/a	good	n/a	LaHP	HIPP	65
+LaHP3	SEEG	µV	n/a	n/a	good	n/a	LaHP	HIPP	66
+LaHP4	SEEG	µV	n/a	n/a	good	n/a	LaHP	HIPP	67
+LaHP5	SEEG	µV	n/a	n/a	good	n/a	LaHP	INS	68
+LaHP6	SEEG	µV	n/a	n/a	good	n/a	LaHP	STG	69
+LaHP7	SEEG	µV	n/a	n/a	good	n/a	LaHP	STG	70
+LaHP8	SEEG	µV	n/a	n/a	good	n/a	LaHP	STG	71
+LaHP9	SEEG	µV	n/a	n/a	good	n/a	LaHP	STG	72
+LaHP10	SEEG	µV	n/a	n/a	good	n/a	LaHP	STG	73
+LaHP11	SEEG	µV	n/a	n/a	good	n/a	LaHP	STG	74
+LaHP12	SEEG	µV	n/a	n/a	good	n/a	LaHP	OUT OF BRAIN	75
+LpCN1	SEEG	µV	n/a	n/a	good	n/a	LpCN	PMC	76
+LpCN2	SEEG	µV	n/a	n/a	good	n/a	LpCN	PMC	77
+LpCN3	SEEG	µV	n/a	n/a	good	n/a	LpCN	PMC	78
+LpCN4	SEEG	µV	n/a	n/a	good	n/a	LpCN	PMC	79
+LpCN5	SEEG	µV	n/a	n/a	good	n/a	LpCN	PMC	80
+LpCN6	SEEG	µV	n/a	n/a	good	n/a	LpCN	PMC	81
+LpCN7	SEEG	µV	n/a	n/a	good	n/a	LpCN	SPL	82
+LpCN8	SEEG	µV	n/a	n/a	good	n/a	LpCN	SPL	83
+LpCN9	SEEG	µV	n/a	n/a	good	n/a	LpCN	SPL	84
+LpCN10	SEEG	µV	n/a	n/a	good	n/a	LpCN	SPL	85
+LpCN11	SEEG	µV	n/a	n/a	good	n/a	LpCN	OUT OF BRAIN	86
+LpCN12	SEEG	µV	n/a	n/a	good	n/a	LpCN	OUT OF BRAIN	87

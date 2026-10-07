@@ -1,0 +1,117 @@
+name	x	y	z	size	group	location_label
+RThM1	n/a	n/a	n/a	n/a	RThM	THAL MID
+RThM2	n/a	n/a	n/a	n/a	RThM	THAL MID
+RThM3	n/a	n/a	n/a	n/a	RThM	WM
+RThM4	n/a	n/a	n/a	n/a	RThM	BG
+RThM5	n/a	n/a	n/a	n/a	RThM	BG
+RThM6	n/a	n/a	n/a	n/a	RThM	INS
+RThM7	n/a	n/a	n/a	n/a	RThM	OUT OF BRAIN
+RThM8	n/a	n/a	n/a	n/a	RThM	SS
+RThM9	n/a	n/a	n/a	n/a	RThM	SS
+RThM10	n/a	n/a	n/a	n/a	RThM	SS
+RThM11	n/a	n/a	n/a	n/a	RThM	SS
+RThM12	n/a	n/a	n/a	n/a	RThM	SS
+RThM13	n/a	n/a	n/a	n/a	RThM	SS
+RThM14	n/a	n/a	n/a	n/a	RThM	OUT OF BRAIN
+RThP1	n/a	n/a	n/a	n/a	RThP	THAL POS
+RThP2	n/a	n/a	n/a	n/a	RThP	THAL POS
+RThP3	n/a	n/a	n/a	n/a	RThP	OUT OF BRAIN
+RThP4	n/a	n/a	n/a	n/a	RThP	WM
+RThP5	n/a	n/a	n/a	n/a	RThP	WM
+RThP6	n/a	n/a	n/a	n/a	RThP	WM
+RThP7	n/a	n/a	n/a	n/a	RThP	EXCLUDE
+RThP8	n/a	n/a	n/a	n/a	RThP	EXCLUDE
+RThP9	n/a	n/a	n/a	n/a	RThP	EXCLUDE
+RThP10	n/a	n/a	n/a	n/a	RThP	EXCLUDE
+RThP11	n/a	n/a	n/a	n/a	RThP	EXCLUDE
+RThP12	n/a	n/a	n/a	n/a	RThP	EXCLUDE
+RThP13	n/a	n/a	n/a	n/a	RThP	EXCLUDE
+RThP14	n/a	n/a	n/a	n/a	RThP	EXCLUDE
+RmIN1	n/a	n/a	n/a	n/a	RmIN	INS
+RmIN2	n/a	n/a	n/a	n/a	RmIN	INS
+RmIN3	n/a	n/a	n/a	n/a	RmIN	MOT
+RmIN4	n/a	n/a	n/a	n/a	RmIN	MOT
+RmIN5	n/a	n/a	n/a	n/a	RmIN	MOT
+RmIN6	n/a	n/a	n/a	n/a	RmIN	MOT
+RmIN7	n/a	n/a	n/a	n/a	RmIN	MOT
+RmIN8	n/a	n/a	n/a	n/a	RmIN	OUT OF BRAIN
+RvOF1	n/a	n/a	n/a	n/a	RvOF	VMPFC
+RvOF2	n/a	n/a	n/a	n/a	RvOF	VMPFC
+RvOF3	n/a	n/a	n/a	n/a	RvOF	VMPFC
+RvOF4	n/a	n/a	n/a	n/a	RvOF	WM
+RvOF5	n/a	n/a	n/a	n/a	RvOF	WM
+RvOF6	n/a	n/a	n/a	n/a	RvOF	WM
+RvOF7	n/a	n/a	n/a	n/a	RvOF	WM
+RvOF8	n/a	n/a	n/a	n/a	RvOF	ACC
+RvOF9	n/a	n/a	n/a	n/a	RvOF	ACC
+RvOF10	n/a	n/a	n/a	n/a	RvOF	ACC
+RvOF11	n/a	n/a	n/a	n/a	RvOF	MFC
+RvOF12	n/a	n/a	n/a	n/a	RvOF	MFC
+RvOF13	n/a	n/a	n/a	n/a	RvOF	MFC
+RvOF14	n/a	n/a	n/a	n/a	RvOF	MFC
+RvOF15	n/a	n/a	n/a	n/a	RvOF	OUT OF BRAIN
+RvOF16	n/a	n/a	n/a	n/a	RvOF	OUT OF BRAIN
+RhOF1	n/a	n/a	n/a	n/a	RhOF	ORB
+RhOF2	n/a	n/a	n/a	n/a	RhOF	ORB
+RhOF3	n/a	n/a	n/a	n/a	RhOF	ORB
+RhOF4	n/a	n/a	n/a	n/a	RhOF	ORB
+RhOF5	n/a	n/a	n/a	n/a	RhOF	ORB
+RhOF6	n/a	n/a	n/a	n/a	RhOF	ORB
+RhOF7	n/a	n/a	n/a	n/a	RhOF	ORB
+RhOF8	n/a	n/a	n/a	n/a	RhOF	ORB
+RhOF9	n/a	n/a	n/a	n/a	RhOF	IFG
+RhOF10	n/a	n/a	n/a	n/a	RhOF	IFG
+RhOF11	n/a	n/a	n/a	n/a	RhOF	OUT OF BRAIN
+RhOF12	n/a	n/a	n/a	n/a	RhOF	OUT OF BRAIN
+RpCN1	n/a	n/a	n/a	n/a	RpCN	PMC
+RpCN2	n/a	n/a	n/a	n/a	RpCN	PMC
+RpCN3	n/a	n/a	n/a	n/a	RpCN	PMC
+RpCN4	n/a	n/a	n/a	n/a	RpCN	WM
+RpCN5	n/a	n/a	n/a	n/a	RpCN	WM
+RpCN6	n/a	n/a	n/a	n/a	RpCN	SS
+RpCN7	n/a	n/a	n/a	n/a	RpCN	SS
+RpCN8	n/a	n/a	n/a	n/a	RpCN	SS
+RpCN9	n/a	n/a	n/a	n/a	RpCN	SS
+RpCN10	n/a	n/a	n/a	n/a	RpCN	OUT OF BRAIN
+RmCN1	n/a	n/a	n/a	n/a	RmCN	MCC
+RmCN2	n/a	n/a	n/a	n/a	RmCN	MCC
+RmCN3	n/a	n/a	n/a	n/a	RmCN	WM
+RmCN4	n/a	n/a	n/a	n/a	RmCN	WM
+RmCN5	n/a	n/a	n/a	n/a	RmCN	WM
+RmCN6	n/a	n/a	n/a	n/a	RmCN	MOT
+RmCN7	n/a	n/a	n/a	n/a	RmCN	MOT
+RmCN8	n/a	n/a	n/a	n/a	RmCN	MOT
+RmCN9	n/a	n/a	n/a	n/a	RmCN	SS
+RmCN10	n/a	n/a	n/a	n/a	RmCN	OUT OF BRAIN
+RaCN1	n/a	n/a	n/a	n/a	RaCN	ACC
+RaCN2	n/a	n/a	n/a	n/a	RaCN	ACC
+RaCN3	n/a	n/a	n/a	n/a	RaCN	ACC
+RaCN4	n/a	n/a	n/a	n/a	RaCN	WM
+RaCN5	n/a	n/a	n/a	n/a	RaCN	WM
+RaCN6	n/a	n/a	n/a	n/a	RaCN	MFG
+RaCN7	n/a	n/a	n/a	n/a	RaCN	MFG
+RaCN8	n/a	n/a	n/a	n/a	RaCN	MFG
+RaCN9	n/a	n/a	n/a	n/a	RaCN	MFG
+RaCN10	n/a	n/a	n/a	n/a	RaCN	MFG
+RTPJ1	n/a	n/a	n/a	n/a	RTPJ	PMC
+RTPJ2	n/a	n/a	n/a	n/a	RTPJ	PMC
+RTPJ3	n/a	n/a	n/a	n/a	RTPJ	WM
+RTPJ4	n/a	n/a	n/a	n/a	RTPJ	WM
+RTPJ5	n/a	n/a	n/a	n/a	RTPJ	WM
+RTPJ6	n/a	n/a	n/a	n/a	RTPJ	WM
+RTPJ7	n/a	n/a	n/a	n/a	RTPJ	AG
+RTPJ8	n/a	n/a	n/a	n/a	RTPJ	AG
+RTPJ9	n/a	n/a	n/a	n/a	RTPJ	AG
+RTPJ10	n/a	n/a	n/a	n/a	RTPJ	AG
+RTPJ11	n/a	n/a	n/a	n/a	RTPJ	AG
+RTPJ12	n/a	n/a	n/a	n/a	RTPJ	AG
+RHIP1	n/a	n/a	n/a	n/a	RHIP	HIPP
+RHIP2	n/a	n/a	n/a	n/a	RHIP	HIPP
+RHIP3	n/a	n/a	n/a	n/a	RHIP	HIPP
+RHIP4	n/a	n/a	n/a	n/a	RHIP	HIPP
+RHIP5	n/a	n/a	n/a	n/a	RHIP	MTG
+RHIP6	n/a	n/a	n/a	n/a	RHIP	MTG
+RHIP7	n/a	n/a	n/a	n/a	RHIP	MTG
+RHIP8	n/a	n/a	n/a	n/a	RHIP	MTG
+RHIP9	n/a	n/a	n/a	n/a	RHIP	MTG
+RHIP10	n/a	n/a	n/a	n/a	RHIP	MTG

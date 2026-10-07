@@ -1,0 +1,8 @@
+{
+  "group": {
+    "Description": "Depth electrode (shank) name (NWB ElectrodeGroup)."
+  },
+  "location_label": {
+    "Description": "Anatomical label given by the authors (NWB electrodes.location); EXCLUDE = contact excluded by the authors."
+  }
+}

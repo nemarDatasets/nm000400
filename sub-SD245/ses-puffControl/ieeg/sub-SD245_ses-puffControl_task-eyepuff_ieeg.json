@@ -1,0 +1,37 @@
+{
+  "TaskName": "eyepuff",
+  "TaskDescription": "Air puffs (~60 ms, clinical tonometer, Keeler Pulsair intelliPuff) were delivered to the left eye while eye closure was filmed at 200 frames/s. Sessions (BIDS ses label = DANDI session label): puffBaseline / puffPreinfusion = eyepuff series before ketamine; puffInfusion = during a 40-min 0.5 mg/kg continuous ketamine infusion; puffPostinfusion (and puffPostinfusionfast, SD211) = after the infusion; puffControl = control series (the article describes an unexpected-auditory control in which the puff device sounded but was directed away from the participant). Each recording is the 20-min window the authors exported: per the source session_description, '10min pre and post puff start'.",
+  "InstitutionName": "Stanford University",
+  "Manufacturer": "Nihon Kohden",
+  "ManufacturersModelName": "JE-120 amplifier",
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": {
+    "AntiAliasingLowPass": {
+      "Description": "FIR anti-aliasing low-pass applied by the authors before downsampling to 200 Hz; cut-off not documented"
+    },
+    "Downsampling": {
+      "Description": "downsampled by the authors to 200 Hz from the acquisition rate (not documented in the release)"
+    }
+  },
+  "HardwareFilters": "n/a",
+  "iEEGReference": "not documented in the release (monopolar contact labels; the article re-referenced to a bipolar montage for its analyses, which is NOT applied to these series)",
+  "iEEGGround": "n/a",
+  "ElectrodeManufacturer": "Ad-Tech",
+  "ElectrodeManufacturersModelName": "sEEG depth electrodes, 12-16 platinum contacts, 0.86 mm diameter, 2.29 mm contact height, 3-5 mm centre-to-centre spacing (article Methods)",
+  "iEEGPlacementScheme": "clinically determined sEEG trajectories (article: 'determined by individual clinical need')",
+  "EpochLength": 0,
+  "SamplingFrequency": 200.0,
+  "SEEGChannelCount": 206,
+  "ECOGChannelCount": 0,
+  "EEGChannelCount": 0,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "TriggerChannelCount": 0,
+  "RecordingDuration": 1200.0,
+  "RecordingType": "continuous",
+  "SoftwareVersions": "conversion: b3w4_kauvar_bids.py with pybv 0.8.1",
+  "SourceSessionDescription": "Voltage traces of multichannel SEEG around eyepuffs, 10min pre and post puff start",
+  "SourceScaleToMicrovolts": 0.390625
+}

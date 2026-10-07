@@ -1,0 +1,89 @@
+name	x	y	z	size	group	location_label
+LaTH1	n/a	n/a	n/a	n/a	LaTH	THAL ANT
+LaTH2	n/a	n/a	n/a	n/a	LaTH	WM
+LaTH3	n/a	n/a	n/a	n/a	LaTH	WM
+LaTH4	n/a	n/a	n/a	n/a	LaTH	WM
+LaTH5	n/a	n/a	n/a	n/a	LaTH	BG
+LaTH6	n/a	n/a	n/a	n/a	LaTH	BG
+LaTH7	n/a	n/a	n/a	n/a	LaTH	INS
+LaTH8	n/a	n/a	n/a	n/a	LaTH	INS
+LaTH9	n/a	n/a	n/a	n/a	LaTH	IFG
+LaTH10	n/a	n/a	n/a	n/a	LaTH	IFG
+LaTH11	n/a	n/a	n/a	n/a	LaTH	IFG
+LaTH12	n/a	n/a	n/a	n/a	LaTH	IFG
+LaTH13	n/a	n/a	n/a	n/a	LaTH	OUT OF BRAIN
+LaTH14	n/a	n/a	n/a	n/a	LaTH	OUT OF BRAIN
+LPTH1	n/a	n/a	n/a	n/a	LPTH	THAL POS
+LPTH2	n/a	n/a	n/a	n/a	LPTH	THAL POS
+LPTH3	n/a	n/a	n/a	n/a	LPTH	THAL POS
+LPTH4	n/a	n/a	n/a	n/a	LPTH	THAL POS
+LPTH5	n/a	n/a	n/a	n/a	LPTH	WM
+LPTH6	n/a	n/a	n/a	n/a	LPTH	WM
+LPTH7	n/a	n/a	n/a	n/a	LPTH	SMG
+LPTH8	n/a	n/a	n/a	n/a	LPTH	SMG
+LPTH9	n/a	n/a	n/a	n/a	LPTH	SMG
+LPTH10	n/a	n/a	n/a	n/a	LPTH	SMG
+LPTH11	n/a	n/a	n/a	n/a	LPTH	SMG
+LPTH12	n/a	n/a	n/a	n/a	LPTH	SMG
+LPTH13	n/a	n/a	n/a	n/a	LPTH	SMG
+LPTH14	n/a	n/a	n/a	n/a	LPTH	OUT OF BRAIN
+LORF1	n/a	n/a	n/a	n/a	LORF	ORB
+LORF2	n/a	n/a	n/a	n/a	LORF	ORB
+LORF3	n/a	n/a	n/a	n/a	LORF	ORB
+LORF4	n/a	n/a	n/a	n/a	LORF	ORB
+LORF5	n/a	n/a	n/a	n/a	LORF	ORB
+LORF6	n/a	n/a	n/a	n/a	LORF	ORB
+LORF7	n/a	n/a	n/a	n/a	LORF	ORB
+LORF8	n/a	n/a	n/a	n/a	LORF	ORB
+LORF9	n/a	n/a	n/a	n/a	LORF	IFG
+LORF10	n/a	n/a	n/a	n/a	LORF	IFG
+LORF11	n/a	n/a	n/a	n/a	LORF	IFG
+LORF12	n/a	n/a	n/a	n/a	LORF	IFG
+LORF13	n/a	n/a	n/a	n/a	LORF	IFG
+LORF14	n/a	n/a	n/a	n/a	LORF	OUT OF BRAIN
+LAMY1	n/a	n/a	n/a	n/a	LAMY	AMY
+LAMY2	n/a	n/a	n/a	n/a	LAMY	AMY
+LAMY3	n/a	n/a	n/a	n/a	LAMY	AMY
+LAMY4	n/a	n/a	n/a	n/a	LAMY	WM
+LAMY5	n/a	n/a	n/a	n/a	LAMY	INS
+LAMY6	n/a	n/a	n/a	n/a	LAMY	INS
+LAMY7	n/a	n/a	n/a	n/a	LAMY	MTG
+LAMY8	n/a	n/a	n/a	n/a	LAMY	MTG
+LAMY9	n/a	n/a	n/a	n/a	LAMY	MTG
+LAMY10	n/a	n/a	n/a	n/a	LAMY	MTG
+LAMY11	n/a	n/a	n/a	n/a	LAMY	MTG
+LAMY12	n/a	n/a	n/a	n/a	LAMY	OUT OF BRAIN
+LpHP1	n/a	n/a	n/a	n/a	LpHP	HIPP
+LpHP2	n/a	n/a	n/a	n/a	LpHP	HIPP
+LpHP3	n/a	n/a	n/a	n/a	LpHP	WM
+LpHP4	n/a	n/a	n/a	n/a	LpHP	FG
+LpHP5	n/a	n/a	n/a	n/a	LpHP	CS
+LpHP6	n/a	n/a	n/a	n/a	LpHP	WM
+LpHP7	n/a	n/a	n/a	n/a	LpHP	ITG
+LpHP8	n/a	n/a	n/a	n/a	LpHP	ITG
+LpHP9	n/a	n/a	n/a	n/a	LpHP	ITG
+LpHP10	n/a	n/a	n/a	n/a	LpHP	OUT OF BRAIN
+LaHP1	n/a	n/a	n/a	n/a	LaHP	HIPP
+LaHP2	n/a	n/a	n/a	n/a	LaHP	HIPP
+LaHP3	n/a	n/a	n/a	n/a	LaHP	HIPP
+LaHP4	n/a	n/a	n/a	n/a	LaHP	HIPP
+LaHP5	n/a	n/a	n/a	n/a	LaHP	INS
+LaHP6	n/a	n/a	n/a	n/a	LaHP	STG
+LaHP7	n/a	n/a	n/a	n/a	LaHP	STG
+LaHP8	n/a	n/a	n/a	n/a	LaHP	STG
+LaHP9	n/a	n/a	n/a	n/a	LaHP	STG
+LaHP10	n/a	n/a	n/a	n/a	LaHP	STG
+LaHP11	n/a	n/a	n/a	n/a	LaHP	STG
+LaHP12	n/a	n/a	n/a	n/a	LaHP	OUT OF BRAIN
+LpCN1	n/a	n/a	n/a	n/a	LpCN	PMC
+LpCN2	n/a	n/a	n/a	n/a	LpCN	PMC
+LpCN3	n/a	n/a	n/a	n/a	LpCN	PMC
+LpCN4	n/a	n/a	n/a	n/a	LpCN	PMC
+LpCN5	n/a	n/a	n/a	n/a	LpCN	PMC
+LpCN6	n/a	n/a	n/a	n/a	LpCN	PMC
+LpCN7	n/a	n/a	n/a	n/a	LpCN	SPL
+LpCN8	n/a	n/a	n/a	n/a	LpCN	SPL
+LpCN9	n/a	n/a	n/a	n/a	LpCN	SPL
+LpCN10	n/a	n/a	n/a	n/a	LpCN	SPL
+LpCN11	n/a	n/a	n/a	n/a	LpCN	OUT OF BRAIN
+LpCN12	n/a	n/a	n/a	n/a	LpCN	OUT OF BRAIN

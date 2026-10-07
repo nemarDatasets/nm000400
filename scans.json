@@ -1,0 +1,11 @@
+{
+  "source_file": {
+    "Description": "NWB file in sourcedata/ that this recording was converted from."
+  },
+  "source_sha256": {
+    "Description": "SHA-256 of the source NWB (equals the DANDI digest)."
+  },
+  "float32_max_abs_err_uV": {
+    "Description": "Largest absolute difference (microvolts) between the float64 source (after scaling) and the float32 BrainVision values."
+  }
+}

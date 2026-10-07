@@ -1,0 +1,11 @@
+{
+  "group": {
+    "Description": "Depth electrode (shank) name: NWB ElectrodeGroup of the contact (electrodes.group_name)."
+  },
+  "location_label": {
+    "Description": "Anatomical label given by the authors in NWB electrodes.location (abbreviations as in the source, e.g. AMY amygdala, HIPP hippocampus, INS insula, THAL ANT anterior thalamus, WM white matter; EXCLUDE = contact excluded by the authors). Not coordinates; the source gives no electrode coordinates (x/y/z are NaN)."
+  },
+  "source_electrode_row": {
+    "Description": "Row index of this contact in the NWB electrodes table."
+  }
+}

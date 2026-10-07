@@ -1,0 +1,315 @@
+{
+  "source": "DANDI:001347/0.250528.0702 (https://doi.org/10.48324/dandi.001347/0.250528.0702), CC-BY-4.0",
+  "selection": "all assets under sub-SD* (human iEEG cohort: 30 ecephys + 14 behaviour NWB). Mouse (sub-m*, sub-mouse), non-implanted human (sub-h*) and cross-participant aggregate (sub-H) assets are not included.",
+  "copy": "byte-identical; SHA-256 checked against the DANDI digest",
+  "files": [
+    {
+      "path": "sub-SD163/sub-SD163_ses-puff_behavior.nwb",
+      "size": 2816304,
+      "sha256": "827e63bec8dabd32f92d50a3b50eca0b542367997510c4abfb8170d98303a6e7",
+      "dandi_asset_id": "ee46f8bb-9a79-4359-9029-4e5f594df622",
+      "dandi_etag": "42c79cefbd31088f61fa09cb95cf77ba-1"
+    },
+    {
+      "path": "sub-SD168/sub-SD168_ses-puffBaseline_ecephys.nwb",
+      "size": 361233344,
+      "sha256": "5915d67440e96c7d03aa743c79ba2f6cb74ff99d6e1ad4e8b110e37834ecb501",
+      "dandi_asset_id": "8088006a-829a-43ae-a7d8-f3743779f0e0",
+      "dandi_etag": "765222232b13467bd70b292ce31b3918-6"
+    },
+    {
+      "path": "sub-SD168/sub-SD168_ses-puffInfusion_ecephys.nwb",
+      "size": 361233344,
+      "sha256": "efbb406beac286c373c4dd0c9d1ebd23a6bcd869dd4a9595dee64e63c82784f3",
+      "dandi_asset_id": "a702b33d-1f1c-4dc0-b42e-8d4f92703885",
+      "dandi_etag": "35bf7b4d4376af00e27114915304d775-6"
+    },
+    {
+      "path": "sub-SD168/sub-SD168_ses-puffPostinfusion_ecephys.nwb",
+      "size": 361233344,
+      "sha256": "e17676c8d67cfb3f0721e83f49d2ed3d1588e1763336e18ff7d42b249c7693c4",
+      "dandi_asset_id": "93a3de44-72d5-4a45-bc79-d20ac1ea38f6",
+      "dandi_etag": "295e743aa88dc27103e0ad2abcfe7718-6"
+    },
+    {
+      "path": "sub-SD168/sub-SD168_ses-puff_behavior.nwb",
+      "size": 3540672,
+      "sha256": "27087c0d874f0add9127ad7a1839825413e006540393edb7e2518cc5ccff036b",
+      "dandi_asset_id": "a23fafc5-6813-43fa-8fe4-b09c4bcede21",
+      "dandi_etag": "9d0df26a38736dbfe56ee88b3ecf5a86-1"
+    },
+    {
+      "path": "sub-SD170/sub-SD170_ses-puff_behavior.nwb",
+      "size": 2859872,
+      "sha256": "f6a8f277ed2c12fa815c52b23ac4882d89af74c95bc72ba4559f4f64a68b0dc8",
+      "dandi_asset_id": "f6d768a5-97d5-4de8-90cd-31dd7d6831a1",
+      "dandi_etag": "9c2465576f2759d7aa362e13f3859fc3-1"
+    },
+    {
+      "path": "sub-SD172/sub-SD172_ses-puffBaseline_ecephys.nwb",
+      "size": 372750632,
+      "sha256": "96d1f6eb935b102ea6f73353cc7abfc44f932a9ae20a96fcbcd0dcb22914ff2f",
+      "dandi_asset_id": "450bae98-53bb-4636-9d2f-fe3eafc806c3",
+      "dandi_etag": "36f49ed05bc082e169acd7f3ff42fe82-6"
+    },
+    {
+      "path": "sub-SD172/sub-SD172_ses-puffInfusion_ecephys.nwb",
+      "size": 372750632,
+      "sha256": "6555d263bd78a2587f3e6384eb4c85b02f632c06aac7a3a8c69af6c7636ac83f",
+      "dandi_asset_id": "3b2347df-24bf-4275-8680-a0db4b2de71a",
+      "dandi_etag": "a7f652321c280af4a5de16b8834d89ac-6"
+    },
+    {
+      "path": "sub-SD172/sub-SD172_ses-puffPostinfusion_ecephys.nwb",
+      "size": 372750632,
+      "sha256": "b6947191de677ee8614f6eae4c48b2433fca7949172648c2a7b0b1af6622c740",
+      "dandi_asset_id": "49227f9a-98d6-4e5f-81dc-2c0f14245312",
+      "dandi_etag": "0b67b9c7e2bb56d63a88d47a227c7991-6"
+    },
+    {
+      "path": "sub-SD172/sub-SD172_ses-puff_behavior.nwb",
+      "size": 2807440,
+      "sha256": "ab7be71d93f832aa18eac3bb948a01dd1f5470f24477df74961c5f51d191b741",
+      "dandi_asset_id": "ecadd01d-bb2f-4b6f-a210-3085eee5be8b",
+      "dandi_etag": "0b0cc6d96c02eced9215d390b1f97496-1"
+    },
+    {
+      "path": "sub-SD178/sub-SD178_ses-puff_behavior.nwb",
+      "size": 2446856,
+      "sha256": "1497bd3e94a603b88afe1c47e0d7d22b45f0f146161b6e875c1960ad94250a15",
+      "dandi_asset_id": "2c7b8db0-1af9-404f-87e1-1aa55f36a09c",
+      "dandi_etag": "8fe9dfe88c661fe5ce866b806987be03-1"
+    },
+    {
+      "path": "sub-SD181/sub-SD181_ses-puffControl_ecephys.nwb",
+      "size": 272883856,
+      "sha256": "31dad388cce6a4719265e4498acab0b7e3942ac79efc48adb58b777f51f333f1",
+      "dandi_asset_id": "467bf91b-008c-439f-9414-0edd45db6912",
+      "dandi_etag": "34332e2a9e7db231349c0de34053afbf-5"
+    },
+    {
+      "path": "sub-SD181/sub-SD181_ses-puffInfusion_ecephys.nwb",
+      "size": 272883856,
+      "sha256": "c6c2790af6aadb98e891202b48f569cf056148a535e48571396449653b2a6afc",
+      "dandi_asset_id": "22eb6923-0de6-43db-97fa-234025b92122",
+      "dandi_etag": "6d24463ea3a547036b11f68405c21d46-5"
+    },
+    {
+      "path": "sub-SD181/sub-SD181_ses-puffPostinfusion_ecephys.nwb",
+      "size": 272883856,
+      "sha256": "e3f8d34c185610629c38ef92e56db1284f88ccc357a093ee8dfe26289788ca6d",
+      "dandi_asset_id": "1030ace5-05f3-4657-9968-ac5c64b589e2",
+      "dandi_etag": "59298f1ddfd4d5016351e85c85112ed8-5"
+    },
+    {
+      "path": "sub-SD181/sub-SD181_ses-puffPreinfusion_ecephys.nwb",
+      "size": 272883856,
+      "sha256": "6c7fb5b5348a82052b2810b236e1586c07895a69014bbb36ee536d4eba5f816a",
+      "dandi_asset_id": "96f819a3-0fcd-49be-b233-12f2426a3476",
+      "dandi_etag": "5c99680de35fd139c8a4c259cb14b875-5"
+    },
+    {
+      "path": "sub-SD181/sub-SD181_ses-puff_behavior.nwb",
+      "size": 3045736,
+      "sha256": "760ce3f0fcda0b9090389c4b2f740b7b41bd7ada1d0ab04a49d357e4f9aca237",
+      "dandi_asset_id": "1c3f25e6-2b88-4625-bd87-c724d507c0c7",
+      "dandi_etag": "986de1656c97ebee31aa7e3bb102ccc9-1"
+    },
+    {
+      "path": "sub-SD184/sub-SD184_ses-puff_behavior.nwb",
+      "size": 2902600,
+      "sha256": "3ada29110c5d589c89a258c0ccb407fcc16a787d265a3620f35245cf2a0d24e4",
+      "dandi_asset_id": "08797994-f434-49ac-8ca4-ed73f29cfa6a",
+      "dandi_etag": "eb8bb80107ed1e4cbbc0b357266e5cb3-1"
+    },
+    {
+      "path": "sub-SD185/sub-SD185_ses-puffBaseline_ecephys.nwb",
+      "size": 261374080,
+      "sha256": "f9f7fa95ed5524b1875ab09b586edb900336ad063c7eed4bc507baf57354fcdf",
+      "dandi_asset_id": "3612af14-4517-473b-84fd-aa78b46a21e4",
+      "dandi_etag": "8a6ea766767b6fe79d2124586c47c726-4"
+    },
+    {
+      "path": "sub-SD185/sub-SD185_ses-puffControl_ecephys.nwb",
+      "size": 261374080,
+      "sha256": "a71dc0580b00f24774416dda70b763afd4d132b32bc592d5f94a13ed51929ab4",
+      "dandi_asset_id": "a5966019-f719-4375-9f7d-890492a371a6",
+      "dandi_etag": "aa49633f14faaf9926434203ebbb460e-4"
+    },
+    {
+      "path": "sub-SD185/sub-SD185_ses-puffInfusion_ecephys.nwb",
+      "size": 261374080,
+      "sha256": "f52e81fe724d81028658531919208a7d77f29da08ff5fa87578cbc5ae3cad1cf",
+      "dandi_asset_id": "52a162ad-10d5-45ff-9e48-3ad47227e620",
+      "dandi_etag": "e30b939b3402810251dffa90a8bdbb2e-4"
+    },
+    {
+      "path": "sub-SD185/sub-SD185_ses-puffPostinfusion_ecephys.nwb",
+      "size": 261374080,
+      "sha256": "1dbf7f26748b0c3d871af510579b78048807f5611f81f9de6c867c050d257622",
+      "dandi_asset_id": "6cda3a62-9c04-480c-967d-b1a2d7cb99d5",
+      "dandi_etag": "278e3d8f9b347b59724fa7d4cfdf1cc9-4"
+    },
+    {
+      "path": "sub-SD185/sub-SD185_ses-puffPreinfusion_ecephys.nwb",
+      "size": 261374080,
+      "sha256": "42bdfee32eccbd48753095e2742e7043c180e2e6b2dd54c44298336c4b61d65f",
+      "dandi_asset_id": "c32e4e6f-5201-4978-abd4-1652f5c8982e",
+      "dandi_etag": "2ae87c5872c60b73c00fbd5ea3407626-4"
+    },
+    {
+      "path": "sub-SD185/sub-SD185_ses-puff_behavior.nwb",
+      "size": 2809520,
+      "sha256": "1dfdba2ab5fef7480beb73c20cae24a60a12e030e427dfaa2d15571cdfd0b838",
+      "dandi_asset_id": "abedfa33-dacb-4929-bfe1-d1e18c806371",
+      "dandi_etag": "d314207a8bfdcfc3b954077aa75309b1-1"
+    },
+    {
+      "path": "sub-SD186/sub-SD186_ses-puffControl_ecephys.nwb",
+      "size": 207601272,
+      "sha256": "1a85c2d543f555f923237eff31033545a6ef3b054ddf6f1f18f2fd39058b4bdb",
+      "dandi_asset_id": "ad4623de-761d-4153-b1e5-7d8614e1b9cf",
+      "dandi_etag": "50dc9dfb12b45b06062732eff20f374f-4"
+    },
+    {
+      "path": "sub-SD186/sub-SD186_ses-puffInfusion_ecephys.nwb",
+      "size": 207601272,
+      "sha256": "f58f809f994c179185bbbcca3d264bf4ca71b69b05761d311e191a6a43fb41f2",
+      "dandi_asset_id": "42eed4fd-6026-4843-b831-cb5aab9ce878",
+      "dandi_etag": "fef76a35b64e81388ef2cc28e8951acd-4"
+    },
+    {
+      "path": "sub-SD186/sub-SD186_ses-puffPostinfusion_ecephys.nwb",
+      "size": 207601272,
+      "sha256": "073b024b2bd1f309d03752cc5896e23f78eb52dd9f0f96c196e6bb449b55505e",
+      "dandi_asset_id": "b83aebef-3fc7-4d38-890c-6c050c01fecd",
+      "dandi_etag": "1ecbfbe09844dd393e92563edf39f2fd-4"
+    },
+    {
+      "path": "sub-SD186/sub-SD186_ses-puffPreinfusion_ecephys.nwb",
+      "size": 207601272,
+      "sha256": "e15575e2dedbbce122ffe1b3f21ac86b10950eafc65def11709b97defe01f50f",
+      "dandi_asset_id": "7ae0741b-3371-4506-9922-ff9be9a9c3df",
+      "dandi_etag": "4e4df5206d547730847ac69bab84c177-4"
+    },
+    {
+      "path": "sub-SD186/sub-SD186_ses-puff_behavior.nwb",
+      "size": 3130408,
+      "sha256": "69ff742d7c225a4dd330ff1278ccd81cbdf646f4b2af41e11c4edad3d81cdbe1",
+      "dandi_asset_id": "1196bb35-2982-44b2-8ffb-a7078a9b64f7",
+      "dandi_etag": "dc77f825986474fcce124b0e4a40e691-1"
+    },
+    {
+      "path": "sub-SD207/sub-SD207_ses-puff_behavior.nwb",
+      "size": 2732304,
+      "sha256": "0b17adda4c316d3e030a1eeec72bed20e9c4a7f4d814a5a202351bebeeb5646d",
+      "dandi_asset_id": "3f477369-535c-4ed6-8e45-94045bf3b427",
+      "dandi_etag": "29d88f8d5eb217729bac3f243bf1cbe9-1"
+    },
+    {
+      "path": "sub-SD211/sub-SD211_ses-puffBaseline_ecephys.nwb",
+      "size": 253689040,
+      "sha256": "a438b042c4798a304dbc9c18cff4f3f6265c512d08f653faa652d4c2eca3bed1",
+      "dandi_asset_id": "1a924a43-5427-4e6d-8be8-e38659b6b8f5",
+      "dandi_etag": "96cf2f58925c3378d44f5fac81854f4a-4"
+    },
+    {
+      "path": "sub-SD211/sub-SD211_ses-puffControl_ecephys.nwb",
+      "size": 253689040,
+      "sha256": "d227239af00cd9473bf0ea75ee3fba2b283f89a94daa4e50d4a51e61cd740846",
+      "dandi_asset_id": "fe401b41-0f30-4523-a5fa-c4fba4db8c08",
+      "dandi_etag": "cc1a7328e3ec6d3f26574010e2e2ce95-4"
+    },
+    {
+      "path": "sub-SD211/sub-SD211_ses-puffInfusion_ecephys.nwb",
+      "size": 253689040,
+      "sha256": "eb4a69b30fe9c4c5d04728384819c0f732ca0dcfc595a1463dd5a1928a2dcfae",
+      "dandi_asset_id": "bb5452c1-31f7-46bb-aaef-6bde000e072a",
+      "dandi_etag": "e06032b0e228bb4f711c263ca53613ec-4"
+    },
+    {
+      "path": "sub-SD211/sub-SD211_ses-puffPostinfusion_ecephys.nwb",
+      "size": 253689040,
+      "sha256": "ee2efb9636edaa36d2c9840c4cfd5e4c4a6ace1c5c6ba67b3df03376fffb3e40",
+      "dandi_asset_id": "18d0cebc-3cae-4232-a303-d0ea07b1433b",
+      "dandi_etag": "aacb1a7f51fb71b7531790d1c26faccd-4"
+    },
+    {
+      "path": "sub-SD211/sub-SD211_ses-puffPostinfusionfast_ecephys.nwb",
+      "size": 253689040,
+      "sha256": "626ea4e7b6327721ab7601665a85b1fec1ba5cdbc404b7347d32c3481fa127b4",
+      "dandi_asset_id": "d8a380bd-98c0-4d88-bc72-adde123204b0",
+      "dandi_etag": "7759b088ddac9844b700c6dbbb939329-4"
+    },
+    {
+      "path": "sub-SD211/sub-SD211_ses-puffPreinfusion_ecephys.nwb",
+      "size": 253689040,
+      "sha256": "817235a3a88d2603861003561ab3b921c3a682ef68f0092bfdbf4d7401c545e8",
+      "dandi_asset_id": "815f60f5-58be-429c-89f7-551fc87baa55",
+      "dandi_etag": "2deeffabaccafeb8916f54d2609005b2-4"
+    },
+    {
+      "path": "sub-SD211/sub-SD211_ses-puff_behavior.nwb",
+      "size": 2850448,
+      "sha256": "e69d73125ad064cbda7bf2cef2fb531c4f63ccd2f676e74a67a0c8124ced2842",
+      "dandi_asset_id": "294c3531-1d45-4590-9eb0-e26051afbc97",
+      "dandi_etag": "7f020f46224a84ddb6e93567c1bc8531-1"
+    },
+    {
+      "path": "sub-SD215/sub-SD215_ses-puff_behavior.nwb",
+      "size": 2827752,
+      "sha256": "43badc42a28d83cb949be2d39d47a6ec42ff2d55e277eca2e05caae8c136c4a1",
+      "dandi_asset_id": "4a77c13a-7f74-421e-87e0-a545976deb0b",
+      "dandi_etag": "7ef38d607c855120b0701c53d5be6809-1"
+    },
+    {
+      "path": "sub-SD242/sub-SD242_ses-puff_behavior.nwb",
+      "size": 3053352,
+      "sha256": "2fb3d8b910d01795e0ad90ac38dcc768776fd905f84166d9bf3af7305bc5e83b",
+      "dandi_asset_id": "32eea1be-6c7a-4e14-9050-e42ffef5811e",
+      "dandi_etag": "6bfb014b44140c6e3f0e193a16ce49a5-1"
+    },
+    {
+      "path": "sub-SD245/sub-SD245_ses-puffBaseline_ecephys.nwb",
+      "size": 434206088,
+      "sha256": "2dacf29928abb9db9ef62ef44fd365d0f912016a0e6dfcec163f469e278d8f46",
+      "dandi_asset_id": "9ca20b53-92aa-4c25-b923-b2491708bffe",
+      "dandi_etag": "f0c8ba291eb49b95845887966ebdfee2-7"
+    },
+    {
+      "path": "sub-SD245/sub-SD245_ses-puffControl_ecephys.nwb",
+      "size": 434206088,
+      "sha256": "19db110b70ed08e86a2185f4e10e336f42d81acc8ff6f3d39f3ada92953b1eb7",
+      "dandi_asset_id": "0c5e3d29-2d5b-47ac-8445-b67167282250",
+      "dandi_etag": "9ea19c06433cc43996bb558fe25c2d9b-7"
+    },
+    {
+      "path": "sub-SD245/sub-SD245_ses-puffInfusion_ecephys.nwb",
+      "size": 434206088,
+      "sha256": "7df5aa5df39a980f4e44d00faf3b8f42d4f3833d55d647c1e59bde5a706ba96a",
+      "dandi_asset_id": "cef19fc1-7c7c-48c0-9f10-224633cc0fc4",
+      "dandi_etag": "00003e586a7c189ce8e19072c84cf97d-7"
+    },
+    {
+      "path": "sub-SD245/sub-SD245_ses-puffPostinfusion_ecephys.nwb",
+      "size": 434206088,
+      "sha256": "981e7732814123e86ea164a2c097f4f8b0f067b543af5be83f57e132185f2dbf",
+      "dandi_asset_id": "57005705-a7e1-4bc2-8fe8-b979a01ed3d9",
+      "dandi_etag": "fd731961f261f55a46ca19ed9d4578e7-7"
+    },
+    {
+      "path": "sub-SD245/sub-SD245_ses-puffPreinfusion_ecephys.nwb",
+      "size": 434206088,
+      "sha256": "fcca9a8c54f1aafbe97c40759335e74bb00e8e2c57457218f290e853900deb33",
+      "dandi_asset_id": "fdcfd71d-8e44-4356-b55d-edbc148b26df",
+      "dandi_etag": "f9bd70448f0a2b4c9c5ba3c54178dcbf-7"
+    },
+    {
+      "path": "sub-SD245/sub-SD245_ses-puff_behavior.nwb",
+      "size": 2836056,
+      "sha256": "88df723a8967db66cdb4c56ff28b637192694da5751c2711298f9cb4840872f8",
+      "dandi_asset_id": "070e467d-eb19-462b-aef2-e8a3003584de",
+      "dandi_etag": "a6cfd61da16363d7711f03b4d6b53bdf-1"
+    }
+  ]
+}

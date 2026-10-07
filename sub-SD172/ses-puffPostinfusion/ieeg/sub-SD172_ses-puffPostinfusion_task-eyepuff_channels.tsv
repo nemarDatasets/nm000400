@@ -1,0 +1,175 @@
+name	type	units	low_cutoff	high_cutoff	status	status_description	group	location_label	source_electrode_row
+LaTH1	SEEG	µV	n/a	n/a	good	n/a	LaTH	THAL ANT	0
+LaTH2	SEEG	µV	n/a	n/a	good	n/a	LaTH	THAL ANT	1
+LaTH3	SEEG	µV	n/a	n/a	good	n/a	LaTH	WM	2
+LaTH4	SEEG	µV	n/a	n/a	good	n/a	LaTH	WM	3
+LaTH5	SEEG	µV	n/a	n/a	good	n/a	LaTH	BG	4
+LaTH6	SEEG	µV	n/a	n/a	good	n/a	LaTH	BG	5
+LaTH7	SEEG	µV	n/a	n/a	good	n/a	LaTH	INS	6
+LaTH8	SEEG	µV	n/a	n/a	good	n/a	LaTH	INS	7
+LaTH9	SEEG	µV	n/a	n/a	good	n/a	LaTH	IFG	8
+LaTH10	SEEG	µV	n/a	n/a	good	n/a	LaTH	IFG	9
+LaTH11	SEEG	µV	n/a	n/a	good	n/a	LaTH	IFG	10
+LaTH12	SEEG	µV	n/a	n/a	good	n/a	LaTH	IFG	11
+LaTH13	SEEG	µV	n/a	n/a	good	n/a	LaTH	IFG	12
+LaTH14	SEEG	µV	n/a	n/a	good	n/a	LaTH	IFG	13
+RORB1	SEEG	µV	n/a	n/a	good	n/a	RORB	ORB	14
+RORB2	SEEG	µV	n/a	n/a	good	n/a	RORB	ORB	15
+RORB3	SEEG	µV	n/a	n/a	good	n/a	RORB	ORB	16
+RORB4	SEEG	µV	n/a	n/a	good	n/a	RORB	ORB	17
+RORB5	SEEG	µV	n/a	n/a	good	n/a	RORB	ORB	18
+RORB6	SEEG	µV	n/a	n/a	good	n/a	RORB	ORB	19
+RORB7	SEEG	µV	n/a	n/a	good	n/a	RORB	ORB	20
+RORB8	SEEG	µV	n/a	n/a	good	n/a	RORB	ORB	21
+RORB9	SEEG	µV	n/a	n/a	good	n/a	RORB	WM	22
+RORB10	SEEG	µV	n/a	n/a	good	n/a	RORB	IFG	23
+RORB11	SEEG	µV	n/a	n/a	good	n/a	RORB	IFG	24
+RORB12	SEEG	µV	n/a	n/a	good	n/a	RORB	IFG	25
+RORB13	SEEG	µV	n/a	n/a	good	n/a	RORB	IFG	26
+RORB14	SEEG	µV	n/a	n/a	good	n/a	RORB	IFG	27
+RpCN1	SEEG	µV	n/a	n/a	good	n/a	RpCN	PMC	28
+RpCN2	SEEG	µV	n/a	n/a	good	n/a	RpCN	PMC	29
+RpCN3	SEEG	µV	n/a	n/a	good	n/a	RpCN	PMC	30
+RpCN4	SEEG	µV	n/a	n/a	good	n/a	RpCN	PMC	31
+RpCN5	SEEG	µV	n/a	n/a	good	n/a	RpCN	PMC	32
+RpCN6	SEEG	µV	n/a	n/a	good	n/a	RpCN	PMC	33
+RpCN7	SEEG	µV	n/a	n/a	good	n/a	RpCN	PMC	34
+RpCN8	SEEG	µV	n/a	n/a	good	n/a	RpCN	PMC	35
+RpCN9	SEEG	µV	n/a	n/a	good	n/a	RpCN	PMC	36
+RpCN10	SEEG	µV	n/a	n/a	good	n/a	RpCN	PMC	37
+RpCN11	SEEG	µV	n/a	n/a	good	n/a	RpCN	PMC	38
+RpCN12	SEEG	µV	n/a	n/a	good	n/a	RpCN	PMC	39
+RpCN13	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RpCN	EXCLUDE	40
+RpCN14	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RpCN	EXCLUDE	41
+RAMY1	SEEG	µV	n/a	n/a	good	n/a	RAMY	AMY	42
+RAMY2	SEEG	µV	n/a	n/a	good	n/a	RAMY	AMY	43
+RAMY3	SEEG	µV	n/a	n/a	good	n/a	RAMY	HIPP	44
+RAMY4	SEEG	µV	n/a	n/a	good	n/a	RAMY	HIPP	45
+RAMY5	SEEG	µV	n/a	n/a	good	n/a	RAMY	HIPP	46
+RAMY6	SEEG	µV	n/a	n/a	good	n/a	RAMY	WM	47
+RAMY7	SEEG	µV	n/a	n/a	good	n/a	RAMY	WM	48
+RAMY8	SEEG	µV	n/a	n/a	good	n/a	RAMY	ITG	49
+RAMY9	SEEG	µV	n/a	n/a	good	n/a	RAMY	ITG	50
+RAMY10	SEEG	µV	n/a	n/a	good	n/a	RAMY	ITG	51
+RAMY11	SEEG	µV	n/a	n/a	good	n/a	RAMY	ITG	52
+RAMY12	SEEG	µV	n/a	n/a	good	n/a	RAMY	ITG	53
+RAMY13	SEEG	µV	n/a	n/a	good	n/a	RAMY	ITG	54
+RAMY14	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RAMY	EXCLUDE	55
+RaTH1	SEEG	µV	n/a	n/a	good	n/a	RaTH	THAL ANT	56
+RaTH2	SEEG	µV	n/a	n/a	good	n/a	RaTH	THAL ANT	57
+RaTH3	SEEG	µV	n/a	n/a	good	n/a	RaTH	WM	58
+RaTH4	SEEG	µV	n/a	n/a	good	n/a	RaTH	WM	59
+RaTH5	SEEG	µV	n/a	n/a	good	n/a	RaTH	BG	60
+RaTH6	SEEG	µV	n/a	n/a	good	n/a	RaTH	BG	61
+RaTH7	SEEG	µV	n/a	n/a	good	n/a	RaTH	CLA	62
+RaTH8	SEEG	µV	n/a	n/a	good	n/a	RaTH	INS	63
+RaTH9	SEEG	µV	n/a	n/a	good	n/a	RaTH	INS	64
+RaTH10	SEEG	µV	n/a	n/a	good	n/a	RaTH	IFG	65
+RaTH11	SEEG	µV	n/a	n/a	good	n/a	RaTH	IFG	66
+RaTH12	SEEG	µV	n/a	n/a	good	n/a	RaTH	IFG	67
+RaTH13	SEEG	µV	n/a	n/a	good	n/a	RaTH	IFG	68
+RaTH14	SEEG	µV	n/a	n/a	good	n/a	RaTH	IFG	69
+RaTH15	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RaTH	EXCLUDE	70
+RaTH16	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RaTH	EXCLUDE	71
+RpTH1	SEEG	µV	n/a	n/a	good	n/a	RpTH	THAL POS	72
+RpTH2	SEEG	µV	n/a	n/a	good	n/a	RpTH	THAL POS	73
+RpTH3	SEEG	µV	n/a	n/a	good	n/a	RpTH	THAL POS	74
+RpTH4	SEEG	µV	n/a	n/a	good	n/a	RpTH	THAL POS	75
+RpTH5	SEEG	µV	n/a	n/a	good	n/a	RpTH	THAL POS	76
+RpTH6	SEEG	µV	n/a	n/a	good	n/a	RpTH	WM	77
+RpTH7	SEEG	µV	n/a	n/a	good	n/a	RpTH	WM	78
+RpTH8	SEEG	µV	n/a	n/a	good	n/a	RpTH	STG	79
+RpTH9	SEEG	µV	n/a	n/a	good	n/a	RpTH	STG	80
+RpTH10	SEEG	µV	n/a	n/a	good	n/a	RpTH	SMG	81
+RpTH11	SEEG	µV	n/a	n/a	good	n/a	RpTH	SMG	82
+RpTH12	SEEG	µV	n/a	n/a	good	n/a	RpTH	SMG	83
+RpTH13	SEEG	µV	n/a	n/a	good	n/a	RpTH	SMG	84
+RpTH14	SEEG	µV	n/a	n/a	good	n/a	RpTH	SMG	85
+RpTH15	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RpTH	EXCLUDE	86
+RpTH16	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RpTH	EXCLUDE	87
+RaIN1	SEEG	µV	n/a	n/a	good	n/a	RaIN	INS	88
+RaIN2	SEEG	µV	n/a	n/a	good	n/a	RaIN	INS	89
+RaIN3	SEEG	µV	n/a	n/a	good	n/a	RaIN	INS	90
+RaIN4	SEEG	µV	n/a	n/a	good	n/a	RaIN	INS	91
+RaIN5	SEEG	µV	n/a	n/a	good	n/a	RaIN	INS	92
+RaIN6	SEEG	µV	n/a	n/a	good	n/a	RaIN	INS	93
+RaIN7	SEEG	µV	n/a	n/a	good	n/a	RaIN	INS	94
+RaIN8	SEEG	µV	n/a	n/a	good	n/a	RaIN	INS	95
+RaIN9	SEEG	µV	n/a	n/a	good	n/a	RaIN	INS	96
+RaIN10	SEEG	µV	n/a	n/a	good	n/a	RaIN	WM	97
+RaIN11	SEEG	µV	n/a	n/a	good	n/a	RaIN	WM	98
+RaIN12	SEEG	µV	n/a	n/a	good	n/a	RaIN	WM	99
+RaIN13	SEEG	µV	n/a	n/a	good	n/a	RaIN	WM	100
+RaIN14	SEEG	µV	n/a	n/a	good	n/a	RaIN	WM	101
+RaIN15	SEEG	µV	n/a	n/a	good	n/a	RaIN	WM	102
+RaIN16	SEEG	µV	n/a	n/a	good	n/a	RaIN	WM	103
+RpIN1	SEEG	µV	n/a	n/a	good	n/a	RpIN	INS	104
+RpIN2	SEEG	µV	n/a	n/a	good	n/a	RpIN	INS	105
+RpIN3	SEEG	µV	n/a	n/a	good	n/a	RpIN	INS	106
+RpIN4	SEEG	µV	n/a	n/a	good	n/a	RpIN	INS	107
+RpIN5	SEEG	µV	n/a	n/a	good	n/a	RpIN	INS	108
+RpIN6	SEEG	µV	n/a	n/a	good	n/a	RpIN	INS	109
+RpIN7	SEEG	µV	n/a	n/a	good	n/a	RpIN	INS	110
+RpIN8	SEEG	µV	n/a	n/a	good	n/a	RpIN	INS	111
+RpIN9	SEEG	µV	n/a	n/a	good	n/a	RpIN	INS	112
+RpIN10	SEEG	µV	n/a	n/a	good	n/a	RpIN	INS	113
+RpIN11	SEEG	µV	n/a	n/a	good	n/a	RpIN	INS	114
+RpIN12	SEEG	µV	n/a	n/a	good	n/a	RpIN	WM	115
+RpIN13	SEEG	µV	n/a	n/a	good	n/a	RpIN	WM	116
+RpIN14	SEEG	µV	n/a	n/a	good	n/a	RpIN	WM	117
+RpIN15	SEEG	µV	n/a	n/a	good	n/a	RpIN	WM	118
+RpIN16	SEEG	µV	n/a	n/a	good	n/a	RpIN	WM	119
+RpHP1	SEEG	µV	n/a	n/a	good	n/a	RpHP	PHG	120
+RpHP2	SEEG	µV	n/a	n/a	good	n/a	RpHP	PHG	121
+RpHP3	SEEG	µV	n/a	n/a	good	n/a	RpHP	HIPP	122
+RpHP4	SEEG	µV	n/a	n/a	good	n/a	RpHP	HIPP	123
+RpHP5	SEEG	µV	n/a	n/a	good	n/a	RpHP	WM	124
+RpHP6	SEEG	µV	n/a	n/a	good	n/a	RpHP	STS	125
+RpHP7	SEEG	µV	n/a	n/a	good	n/a	RpHP	STS	126
+RpHP8	SEEG	µV	n/a	n/a	good	n/a	RpHP	STS	127
+RpHP9	SEEG	µV	n/a	n/a	good	n/a	RpHP	STS	128
+RpHP10	SEEG	µV	n/a	n/a	good	n/a	RpHP	STS	129
+RpHP11	SEEG	µV	n/a	n/a	good	n/a	RpHP	STS	130
+RpHP12	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RpHP	EXCLUDE	131
+RmTP1	SEEG	µV	n/a	n/a	good	n/a	RmTP	TP	132
+RmTP2	SEEG	µV	n/a	n/a	good	n/a	RmTP	TP	133
+RmTP3	SEEG	µV	n/a	n/a	good	n/a	RmTP	TP	134
+RmTP4	SEEG	µV	n/a	n/a	good	n/a	RmTP	MTG	135
+RmTP5	SEEG	µV	n/a	n/a	good	n/a	RmTP	MTG	136
+RmTP6	SEEG	µV	n/a	n/a	good	n/a	RmTP	MTG	137
+RmTP7	SEEG	µV	n/a	n/a	good	n/a	RmTP	MTG	138
+RmTP8	SEEG	µV	n/a	n/a	good	n/a	RmTP	MTG	139
+RmTP9	SEEG	µV	n/a	n/a	good	n/a	RmTP	MTG	140
+RmTP10	SEEG	µV	n/a	n/a	good	n/a	RmTP	MTG	141
+RmTP11	SEEG	µV	n/a	n/a	good	n/a	RmTP	MTG	142
+RmTP12	SEEG	µV	n/a	n/a	good	n/a	RmTP	MTG	143
+RmTP13	SEEG	µV	n/a	n/a	good	n/a	RmTP	MTG	144
+RmTP14	SEEG	µV	n/a	n/a	good	n/a	RmTP	MTG	145
+LpCN1	SEEG	µV	n/a	n/a	good	n/a	LpCN	PMC	146
+LpCN2	SEEG	µV	n/a	n/a	good	n/a	LpCN	PMC	147
+LpCN3	SEEG	µV	n/a	n/a	good	n/a	LpCN	PMC	148
+LpCN4	SEEG	µV	n/a	n/a	good	n/a	LpCN	PMC	149
+LpCN5	SEEG	µV	n/a	n/a	good	n/a	LpCN	PMC	150
+LpCN6	SEEG	µV	n/a	n/a	good	n/a	LpCN	PMC	151
+LpCN7	SEEG	µV	n/a	n/a	good	n/a	LpCN	PMC	152
+LpCN8	SEEG	µV	n/a	n/a	good	n/a	LpCN	PMC	153
+LpCN9	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	LpCN	EXCLUDE	154
+LpCN10	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	LpCN	EXCLUDE	155
+LpCN11	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	LpCN	EXCLUDE	156
+LpCN12	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	LpCN	EXCLUDE	157
+LpCN13	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	LpCN	EXCLUDE	158
+LpCN14	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	LpCN	EXCLUDE	159
+LAMY1	SEEG	µV	n/a	n/a	good	n/a	LAMY	AMY	160
+LAMY2	SEEG	µV	n/a	n/a	good	n/a	LAMY	AMY	161
+LAMY3	SEEG	µV	n/a	n/a	good	n/a	LAMY	HIPP	162
+LAMY4	SEEG	µV	n/a	n/a	good	n/a	LAMY	HIPP	163
+LAMY5	SEEG	µV	n/a	n/a	good	n/a	LAMY	HIPP	164
+LAMY6	SEEG	µV	n/a	n/a	good	n/a	LAMY	TP	165
+LAMY7	SEEG	µV	n/a	n/a	good	n/a	LAMY	TP	166
+LAMY8	SEEG	µV	n/a	n/a	good	n/a	LAMY	TP	167
+LAMY9	SEEG	µV	n/a	n/a	good	n/a	LAMY	MTG	168
+LAMY10	SEEG	µV	n/a	n/a	good	n/a	LAMY	MTG	169
+LAMY11	SEEG	µV	n/a	n/a	good	n/a	LAMY	MTG	170
+LAMY12	SEEG	µV	n/a	n/a	good	n/a	LAMY	MTG	171
+LAMY13	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	LAMY	EXCLUDE	172
+LAMY14	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	LAMY	EXCLUDE	173

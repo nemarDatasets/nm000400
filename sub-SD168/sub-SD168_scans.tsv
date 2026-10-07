@@ -1,0 +1,4 @@
+filename	source_file	source_sha256	float32_max_abs_err_uV
+ses-puffBaseline/ieeg/sub-SD168_ses-puffBaseline_task-eyepuff_ieeg.vhdr	sourcedata/dandi-001347/sub-SD168/sub-SD168_ses-puffBaseline_ecephys.nwb	5915d67440e96c7d03aa743c79ba2f6cb74ff99d6e1ad4e8b110e37834ecb501	0.000122
+ses-puffInfusion/ieeg/sub-SD168_ses-puffInfusion_task-eyepuff_ieeg.vhdr	sourcedata/dandi-001347/sub-SD168/sub-SD168_ses-puffInfusion_ecephys.nwb	efbb406beac286c373c4dd0c9d1ebd23a6bcd869dd4a9595dee64e63c82784f3	0.000122
+ses-puffPostinfusion/ieeg/sub-SD168_ses-puffPostinfusion_task-eyepuff_ieeg.vhdr	sourcedata/dandi-001347/sub-SD168/sub-SD168_ses-puffPostinfusion_ecephys.nwb	e17676c8d67cfb3f0721e83f49d2ed3d1588e1763336e18ff7d42b249c7693c4	0.000122

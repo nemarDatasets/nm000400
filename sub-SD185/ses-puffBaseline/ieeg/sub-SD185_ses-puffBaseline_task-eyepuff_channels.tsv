@@ -1,0 +1,117 @@
+name	type	units	low_cutoff	high_cutoff	status	status_description	group	location_label	source_electrode_row
+RThM1	SEEG	µV	n/a	n/a	good	n/a	RThM	THAL MID	0
+RThM2	SEEG	µV	n/a	n/a	good	n/a	RThM	THAL MID	1
+RThM3	SEEG	µV	n/a	n/a	good	n/a	RThM	WM	2
+RThM4	SEEG	µV	n/a	n/a	good	n/a	RThM	BG	3
+RThM5	SEEG	µV	n/a	n/a	good	n/a	RThM	BG	4
+RThM6	SEEG	µV	n/a	n/a	good	n/a	RThM	INS	5
+RThM7	SEEG	µV	n/a	n/a	good	n/a	RThM	OUT OF BRAIN	6
+RThM8	SEEG	µV	n/a	n/a	good	n/a	RThM	SS	7
+RThM9	SEEG	µV	n/a	n/a	good	n/a	RThM	SS	8
+RThM10	SEEG	µV	n/a	n/a	good	n/a	RThM	SS	9
+RThM11	SEEG	µV	n/a	n/a	good	n/a	RThM	SS	10
+RThM12	SEEG	µV	n/a	n/a	good	n/a	RThM	SS	11
+RThM13	SEEG	µV	n/a	n/a	good	n/a	RThM	SS	12
+RThM14	SEEG	µV	n/a	n/a	good	n/a	RThM	OUT OF BRAIN	13
+RThP1	SEEG	µV	n/a	n/a	good	n/a	RThP	THAL POS	14
+RThP2	SEEG	µV	n/a	n/a	good	n/a	RThP	THAL POS	15
+RThP3	SEEG	µV	n/a	n/a	good	n/a	RThP	OUT OF BRAIN	16
+RThP4	SEEG	µV	n/a	n/a	good	n/a	RThP	WM	17
+RThP5	SEEG	µV	n/a	n/a	good	n/a	RThP	WM	18
+RThP6	SEEG	µV	n/a	n/a	good	n/a	RThP	WM	19
+RThP7	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RThP	EXCLUDE	20
+RThP8	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RThP	EXCLUDE	21
+RThP9	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RThP	EXCLUDE	22
+RThP10	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RThP	EXCLUDE	23
+RThP11	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RThP	EXCLUDE	24
+RThP12	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RThP	EXCLUDE	25
+RThP13	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RThP	EXCLUDE	26
+RThP14	SEEG	µV	n/a	n/a	bad	source electrodes.location = EXCLUDE (authors' exclusion label)	RThP	EXCLUDE	27
+RmIN1	SEEG	µV	n/a	n/a	good	n/a	RmIN	INS	28
+RmIN2	SEEG	µV	n/a	n/a	good	n/a	RmIN	INS	29
+RmIN3	SEEG	µV	n/a	n/a	good	n/a	RmIN	MOT	30
+RmIN4	SEEG	µV	n/a	n/a	good	n/a	RmIN	MOT	31
+RmIN5	SEEG	µV	n/a	n/a	good	n/a	RmIN	MOT	32
+RmIN6	SEEG	µV	n/a	n/a	good	n/a	RmIN	MOT	33
+RmIN7	SEEG	µV	n/a	n/a	good	n/a	RmIN	MOT	34
+RmIN8	SEEG	µV	n/a	n/a	good	n/a	RmIN	OUT OF BRAIN	35
+RvOF1	SEEG	µV	n/a	n/a	good	n/a	RvOF	VMPFC	36
+RvOF2	SEEG	µV	n/a	n/a	good	n/a	RvOF	VMPFC	37
+RvOF3	SEEG	µV	n/a	n/a	good	n/a	RvOF	VMPFC	38
+RvOF4	SEEG	µV	n/a	n/a	good	n/a	RvOF	WM	39
+RvOF5	SEEG	µV	n/a	n/a	good	n/a	RvOF	WM	40
+RvOF6	SEEG	µV	n/a	n/a	good	n/a	RvOF	WM	41
+RvOF7	SEEG	µV	n/a	n/a	good	n/a	RvOF	WM	42
+RvOF8	SEEG	µV	n/a	n/a	good	n/a	RvOF	ACC	43
+RvOF9	SEEG	µV	n/a	n/a	good	n/a	RvOF	ACC	44
+RvOF10	SEEG	µV	n/a	n/a	good	n/a	RvOF	ACC	45
+RvOF11	SEEG	µV	n/a	n/a	good	n/a	RvOF	MFC	46
+RvOF12	SEEG	µV	n/a	n/a	good	n/a	RvOF	MFC	47
+RvOF13	SEEG	µV	n/a	n/a	good	n/a	RvOF	MFC	48
+RvOF14	SEEG	µV	n/a	n/a	good	n/a	RvOF	MFC	49
+RvOF15	SEEG	µV	n/a	n/a	good	n/a	RvOF	OUT OF BRAIN	50
+RvOF16	SEEG	µV	n/a	n/a	good	n/a	RvOF	OUT OF BRAIN	51
+RhOF1	SEEG	µV	n/a	n/a	good	n/a	RhOF	ORB	52
+RhOF2	SEEG	µV	n/a	n/a	good	n/a	RhOF	ORB	53
+RhOF3	SEEG	µV	n/a	n/a	good	n/a	RhOF	ORB	54
+RhOF4	SEEG	µV	n/a	n/a	good	n/a	RhOF	ORB	55
+RhOF5	SEEG	µV	n/a	n/a	good	n/a	RhOF	ORB	56
+RhOF6	SEEG	µV	n/a	n/a	good	n/a	RhOF	ORB	57
+RhOF7	SEEG	µV	n/a	n/a	good	n/a	RhOF	ORB	58
+RhOF8	SEEG	µV	n/a	n/a	good	n/a	RhOF	ORB	59
+RhOF9	SEEG	µV	n/a	n/a	good	n/a	RhOF	IFG	60
+RhOF10	SEEG	µV	n/a	n/a	good	n/a	RhOF	IFG	61
+RhOF11	SEEG	µV	n/a	n/a	good	n/a	RhOF	OUT OF BRAIN	62
+RhOF12	SEEG	µV	n/a	n/a	good	n/a	RhOF	OUT OF BRAIN	63
+RpCN1	SEEG	µV	n/a	n/a	good	n/a	RpCN	PMC	64
+RpCN2	SEEG	µV	n/a	n/a	good	n/a	RpCN	PMC	65
+RpCN3	SEEG	µV	n/a	n/a	good	n/a	RpCN	PMC	66
+RpCN4	SEEG	µV	n/a	n/a	good	n/a	RpCN	WM	67
+RpCN5	SEEG	µV	n/a	n/a	good	n/a	RpCN	WM	68
+RpCN6	SEEG	µV	n/a	n/a	good	n/a	RpCN	SS	69
+RpCN7	SEEG	µV	n/a	n/a	good	n/a	RpCN	SS	70
+RpCN8	SEEG	µV	n/a	n/a	good	n/a	RpCN	SS	71
+RpCN9	SEEG	µV	n/a	n/a	good	n/a	RpCN	SS	72
+RpCN10	SEEG	µV	n/a	n/a	good	n/a	RpCN	OUT OF BRAIN	73
+RmCN1	SEEG	µV	n/a	n/a	good	n/a	RmCN	MCC	74
+RmCN2	SEEG	µV	n/a	n/a	good	n/a	RmCN	MCC	75
+RmCN3	SEEG	µV	n/a	n/a	good	n/a	RmCN	WM	76
+RmCN4	SEEG	µV	n/a	n/a	good	n/a	RmCN	WM	77
+RmCN5	SEEG	µV	n/a	n/a	good	n/a	RmCN	WM	78
+RmCN6	SEEG	µV	n/a	n/a	good	n/a	RmCN	MOT	79
+RmCN7	SEEG	µV	n/a	n/a	good	n/a	RmCN	MOT	80
+RmCN8	SEEG	µV	n/a	n/a	good	n/a	RmCN	MOT	81
+RmCN9	SEEG	µV	n/a	n/a	good	n/a	RmCN	SS	82
+RmCN10	SEEG	µV	n/a	n/a	good	n/a	RmCN	OUT OF BRAIN	83
+RaCN1	SEEG	µV	n/a	n/a	good	n/a	RaCN	ACC	84
+RaCN2	SEEG	µV	n/a	n/a	good	n/a	RaCN	ACC	85
+RaCN3	SEEG	µV	n/a	n/a	good	n/a	RaCN	ACC	86
+RaCN4	SEEG	µV	n/a	n/a	good	n/a	RaCN	WM	87
+RaCN5	SEEG	µV	n/a	n/a	good	n/a	RaCN	WM	88
+RaCN6	SEEG	µV	n/a	n/a	good	n/a	RaCN	MFG	89
+RaCN7	SEEG	µV	n/a	n/a	good	n/a	RaCN	MFG	90
+RaCN8	SEEG	µV	n/a	n/a	good	n/a	RaCN	MFG	91
+RaCN9	SEEG	µV	n/a	n/a	good	n/a	RaCN	MFG	92
+RaCN10	SEEG	µV	n/a	n/a	good	n/a	RaCN	MFG	93
+RTPJ1	SEEG	µV	n/a	n/a	good	n/a	RTPJ	PMC	94
+RTPJ2	SEEG	µV	n/a	n/a	good	n/a	RTPJ	PMC	95
+RTPJ3	SEEG	µV	n/a	n/a	good	n/a	RTPJ	WM	96
+RTPJ4	SEEG	µV	n/a	n/a	good	n/a	RTPJ	WM	97
+RTPJ5	SEEG	µV	n/a	n/a	good	n/a	RTPJ	WM	98
+RTPJ6	SEEG	µV	n/a	n/a	good	n/a	RTPJ	WM	99
+RTPJ7	SEEG	µV	n/a	n/a	good	n/a	RTPJ	AG	100
+RTPJ8	SEEG	µV	n/a	n/a	good	n/a	RTPJ	AG	101
+RTPJ9	SEEG	µV	n/a	n/a	good	n/a	RTPJ	AG	102
+RTPJ10	SEEG	µV	n/a	n/a	good	n/a	RTPJ	AG	103
+RTPJ11	SEEG	µV	n/a	n/a	good	n/a	RTPJ	AG	104
+RTPJ12	SEEG	µV	n/a	n/a	good	n/a	RTPJ	AG	105
+RHIP1	SEEG	µV	n/a	n/a	good	n/a	RHIP	HIPP	106
+RHIP2	SEEG	µV	n/a	n/a	good	n/a	RHIP	HIPP	107
+RHIP3	SEEG	µV	n/a	n/a	good	n/a	RHIP	HIPP	108
+RHIP4	SEEG	µV	n/a	n/a	good	n/a	RHIP	HIPP	109
+RHIP5	SEEG	µV	n/a	n/a	good	n/a	RHIP	MTG	110
+RHIP6	SEEG	µV	n/a	n/a	good	n/a	RHIP	MTG	111
+RHIP7	SEEG	µV	n/a	n/a	good	n/a	RHIP	MTG	112
+RHIP8	SEEG	µV	n/a	n/a	good	n/a	RHIP	MTG	113
+RHIP9	SEEG	µV	n/a	n/a	good	n/a	RHIP	MTG	114
+RHIP10	SEEG	µV	n/a	n/a	good	n/a	RHIP	MTG	115

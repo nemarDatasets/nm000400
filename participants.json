@@ -1,0 +1,23 @@
+{
+  "participant_id": {
+    "Description": "DANDI 001347 subject label (study code SDnnn)."
+  },
+  "age": {
+    "Description": "Age in years. Not released per participant (NWB subject.age is the placeholder 'P18Y/', i.e. 18 years or older)."
+  },
+  "sex": {
+    "Description": "Not released per participant (NWB subject.sex = 'O')."
+  },
+  "species": {
+    "Description": "Species."
+  },
+  "source_age": {
+    "Description": "NWB subject.age verbatim (ISO 8601 duration range; 'P18Y/' = at least 18 years)."
+  },
+  "source_sex": {
+    "Description": "NWB subject.sex verbatim ('O' = other/not given)."
+  },
+  "sessions": {
+    "Description": "Sessions with iEEG in this dataset."
+  }
+}

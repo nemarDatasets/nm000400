@@ -1,0 +1,113 @@
+name	type	units	low_cutoff	high_cutoff	status	status_description	group	location_label	source_electrode_row
+LANT1	SEEG	µV	n/a	n/a	good	n/a	LANT	THAL ANT	0
+LANT2	SEEG	µV	n/a	n/a	good	n/a	LANT	THAL ANT	1
+LANT3	SEEG	µV	n/a	n/a	good	n/a	LANT	WM	2
+LANT4	SEEG	µV	n/a	n/a	good	n/a	LANT	WM	3
+LANT5	SEEG	µV	n/a	n/a	good	n/a	LANT	WM	4
+LANT6	SEEG	µV	n/a	n/a	good	n/a	LANT	WM	5
+LANT7	SEEG	µV	n/a	n/a	good	n/a	LANT	BG	6
+LANT8	SEEG	µV	n/a	n/a	good	n/a	LANT	BG	7
+LANT9	SEEG	µV	n/a	n/a	good	n/a	LANT	INS	8
+LANT10	SEEG	µV	n/a	n/a	good	n/a	LANT	INS	9
+LANT11	SEEG	µV	n/a	n/a	good	n/a	LANT	INS	10
+LANT12	SEEG	µV	n/a	n/a	good	n/a	LANT	PRECG	11
+LANT13	SEEG	µV	n/a	n/a	good	n/a	LANT	PRECG	12
+LANT14	SEEG	µV	n/a	n/a	good	n/a	LANT	PRECG	13
+LANT15	SEEG	µV	n/a	n/a	good	n/a	LANT	PRECG	14
+LANT16	SEEG	µV	n/a	n/a	good	n/a	LANT	PRECG	15
+LPUL1	SEEG	µV	n/a	n/a	good	n/a	LPUL	THAL POS	16
+LPUL2	SEEG	µV	n/a	n/a	good	n/a	LPUL	THAL POS	17
+LPUL3	SEEG	µV	n/a	n/a	good	n/a	LPUL	THAL POS	18
+LPUL4	SEEG	µV	n/a	n/a	good	n/a	LPUL	WM	19
+LPUL5	SEEG	µV	n/a	n/a	good	n/a	LPUL	WM	20
+LPUL6	SEEG	µV	n/a	n/a	good	n/a	LPUL	INS	21
+LPUL7	SEEG	µV	n/a	n/a	good	n/a	LPUL	INS	22
+LPUL8	SEEG	µV	n/a	n/a	good	n/a	LPUL	SMG	23
+LPUL9	SEEG	µV	n/a	n/a	good	n/a	LPUL	SMG	24
+LPUL10	SEEG	µV	n/a	n/a	good	n/a	LPUL	SMG	25
+LPUL11	SEEG	µV	n/a	n/a	good	n/a	LPUL	SMG	26
+LPUL12	SEEG	µV	n/a	n/a	good	n/a	LPUL	SMG	27
+LPUL13	SEEG	µV	n/a	n/a	good	n/a	LPUL	SMG	28
+LPUL14	SEEG	µV	n/a	n/a	good	n/a	LPUL	SMG	29
+LPUL15	SEEG	µV	n/a	n/a	good	n/a	LPUL	SMG	30
+LPUL16	SEEG	µV	n/a	n/a	good	n/a	LPUL	SMG	31
+LHPC1	SEEG	µV	n/a	n/a	good	n/a	LHPC	HIPP	32
+LHPC2	SEEG	µV	n/a	n/a	good	n/a	LHPC	HIPP	33
+LHPC3	SEEG	µV	n/a	n/a	good	n/a	LHPC	HIPP	34
+LHPC4	SEEG	µV	n/a	n/a	good	n/a	LHPC	HIPP	35
+LHPC5	SEEG	µV	n/a	n/a	good	n/a	LHPC	HIPP	36
+LHPC6	SEEG	µV	n/a	n/a	good	n/a	LHPC	TP	37
+LHPC7	SEEG	µV	n/a	n/a	good	n/a	LHPC	TP	38
+LHPC8	SEEG	µV	n/a	n/a	good	n/a	LHPC	TP	39
+LHPC9	SEEG	µV	n/a	n/a	good	n/a	LHPC	WM	40
+LHPC10	SEEG	µV	n/a	n/a	good	n/a	LHPC	MTG	41
+LHPC11	SEEG	µV	n/a	n/a	good	n/a	LHPC	MTG	42
+LHPC12	SEEG	µV	n/a	n/a	good	n/a	LHPC	MTG	43
+LHPC13	SEEG	µV	n/a	n/a	good	n/a	LHPC	MTG	44
+LHPC14	SEEG	µV	n/a	n/a	good	n/a	LHPC	MTG	45
+LHPC15	SEEG	µV	n/a	n/a	good	n/a	LHPC	MTG	46
+LHPC16	SEEG	µV	n/a	n/a	good	n/a	LHPC	MTG	47
+LESp1	SEEG	µV	n/a	n/a	good	n/a	LESp	FG	48
+LESp2	SEEG	µV	n/a	n/a	good	n/a	LESp	FG	49
+LESp3	SEEG	µV	n/a	n/a	good	n/a	LESp	CS	50
+LESp4	SEEG	µV	n/a	n/a	good	n/a	LESp	CS	51
+LESp5	SEEG	µV	n/a	n/a	good	n/a	LESp	CS	52
+LESp6	SEEG	µV	n/a	n/a	good	n/a	LESp	CS	53
+LESp7	SEEG	µV	n/a	n/a	good	n/a	LESp	ITG	54
+LESp8	SEEG	µV	n/a	n/a	good	n/a	LESp	ITG	55
+LESp9	SEEG	µV	n/a	n/a	good	n/a	LESp	ITG	56
+LESp10	SEEG	µV	n/a	n/a	good	n/a	LESp	ITG	57
+LESp11	SEEG	µV	n/a	n/a	good	n/a	LESp	ITG	58
+LESp12	SEEG	µV	n/a	n/a	good	n/a	LESp	ITG	59
+LESp13	SEEG	µV	n/a	n/a	good	n/a	LESp	MTG	60
+LESp14	SEEG	µV	n/a	n/a	good	n/a	LESp	MTG	61
+LESp15	SEEG	µV	n/a	n/a	good	n/a	LESp	OUT OF BRAIN	62
+LESp16	SEEG	µV	n/a	n/a	good	n/a	LESp	OUT OF BRAIN	63
+LFus1	SEEG	µV	n/a	n/a	good	n/a	LFus	PHG	64
+LFus2	SEEG	µV	n/a	n/a	good	n/a	LFus	PHG	65
+LFus3	SEEG	µV	n/a	n/a	good	n/a	LFus	FG	66
+LFus4	SEEG	µV	n/a	n/a	good	n/a	LFus	FG	67
+LFus5	SEEG	µV	n/a	n/a	good	n/a	LFus	FG	68
+LFus6	SEEG	µV	n/a	n/a	good	n/a	LFus	CS	69
+LFus7	SEEG	µV	n/a	n/a	good	n/a	LFus	CS	70
+LFus8	SEEG	µV	n/a	n/a	good	n/a	LFus	ITG	71
+LFus9	SEEG	µV	n/a	n/a	good	n/a	LFus	ITG	72
+LFus10	SEEG	µV	n/a	n/a	good	n/a	LFus	ITG	73
+LFus11	SEEG	µV	n/a	n/a	good	n/a	LFus	ITG	74
+LFus12	SEEG	µV	n/a	n/a	good	n/a	LFus	ITG	75
+LFus13	SEEG	µV	n/a	n/a	good	n/a	LFus	MTG	76
+LFus14	SEEG	µV	n/a	n/a	good	n/a	LFus	MTG	77
+LFus15	SEEG	µV	n/a	n/a	good	n/a	LFus	MTG	78
+LFus16	SEEG	µV	n/a	n/a	good	n/a	LFus	OUT OF BRAIN	79
+LESa1	SEEG	µV	n/a	n/a	good	n/a	LESa	TP	80
+LESa2	SEEG	µV	n/a	n/a	good	n/a	LESa	TP	81
+LESa3	SEEG	µV	n/a	n/a	good	n/a	LESa	TP	82
+LESa4	SEEG	µV	n/a	n/a	good	n/a	LESa	TP	83
+LESa5	SEEG	µV	n/a	n/a	good	n/a	LESa	TP	84
+LESa6	SEEG	µV	n/a	n/a	good	n/a	LESa	TP	85
+LESa7	SEEG	µV	n/a	n/a	good	n/a	LESa	TP	86
+LESa8	SEEG	µV	n/a	n/a	good	n/a	LESa	TP	87
+LESa9	SEEG	µV	n/a	n/a	good	n/a	LESa	TP	88
+LESa10	SEEG	µV	n/a	n/a	good	n/a	LESa	ITG	89
+LESa11	SEEG	µV	n/a	n/a	good	n/a	LESa	ITG	90
+LESa12	SEEG	µV	n/a	n/a	good	n/a	LESa	ITG	91
+LESa13	SEEG	µV	n/a	n/a	good	n/a	LESa	ITG	92
+LESa14	SEEG	µV	n/a	n/a	good	n/a	LESa	OUT OF BRAIN	93
+LESa15	SEEG	µV	n/a	n/a	good	n/a	LESa	OUT OF BRAIN	94
+LESa16	SEEG	µV	n/a	n/a	good	n/a	LESa	OUT OF BRAIN	95
+LAMY1	SEEG	µV	n/a	n/a	good	n/a	LAMY	AMY	96
+LAMY2	SEEG	µV	n/a	n/a	good	n/a	LAMY	AMY	97
+LAMY3	SEEG	µV	n/a	n/a	good	n/a	LAMY	AMY	98
+LAMY4	SEEG	µV	n/a	n/a	good	n/a	LAMY	AMY	99
+LAMY5	SEEG	µV	n/a	n/a	good	n/a	LAMY	AMY	100
+LAMY6	SEEG	µV	n/a	n/a	good	n/a	LAMY	WM	101
+LAMY7	SEEG	µV	n/a	n/a	good	n/a	LAMY	WM	102
+LAMY8	SEEG	µV	n/a	n/a	good	n/a	LAMY	WM	103
+LAMY9	SEEG	µV	n/a	n/a	good	n/a	LAMY	WM	104
+LAMY10	SEEG	µV	n/a	n/a	good	n/a	LAMY	MTG	105
+LAMY11	SEEG	µV	n/a	n/a	good	n/a	LAMY	MTG	106
+LAMY12	SEEG	µV	n/a	n/a	good	n/a	LAMY	MTG	107
+LAMY13	SEEG	µV	n/a	n/a	good	n/a	LAMY	MTG	108
+LAMY14	SEEG	µV	n/a	n/a	good	n/a	LAMY	MTG	109
+LAMY15	SEEG	µV	n/a	n/a	good	n/a	LAMY	OUT OF BRAIN	110
+LAMY16	SEEG	µV	n/a	n/a	good	n/a	LAMY	OUT OF BRAIN	111

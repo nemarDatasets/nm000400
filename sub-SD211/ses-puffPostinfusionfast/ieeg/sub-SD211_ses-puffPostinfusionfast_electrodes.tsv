@@ -1,0 +1,113 @@
+name	x	y	z	size	group	location_label
+LANT1	n/a	n/a	n/a	n/a	LANT	THAL ANT
+LANT2	n/a	n/a	n/a	n/a	LANT	THAL ANT
+LANT3	n/a	n/a	n/a	n/a	LANT	WM
+LANT4	n/a	n/a	n/a	n/a	LANT	WM
+LANT5	n/a	n/a	n/a	n/a	LANT	WM
+LANT6	n/a	n/a	n/a	n/a	LANT	WM
+LANT7	n/a	n/a	n/a	n/a	LANT	BG
+LANT8	n/a	n/a	n/a	n/a	LANT	BG
+LANT9	n/a	n/a	n/a	n/a	LANT	INS
+LANT10	n/a	n/a	n/a	n/a	LANT	INS
+LANT11	n/a	n/a	n/a	n/a	LANT	INS
+LANT12	n/a	n/a	n/a	n/a	LANT	PRECG
+LANT13	n/a	n/a	n/a	n/a	LANT	PRECG
+LANT14	n/a	n/a	n/a	n/a	LANT	PRECG
+LANT15	n/a	n/a	n/a	n/a	LANT	PRECG
+LANT16	n/a	n/a	n/a	n/a	LANT	PRECG
+LPUL1	n/a	n/a	n/a	n/a	LPUL	THAL POS
+LPUL2	n/a	n/a	n/a	n/a	LPUL	THAL POS
+LPUL3	n/a	n/a	n/a	n/a	LPUL	THAL POS
+LPUL4	n/a	n/a	n/a	n/a	LPUL	WM
+LPUL5	n/a	n/a	n/a	n/a	LPUL	WM
+LPUL6	n/a	n/a	n/a	n/a	LPUL	INS
+LPUL7	n/a	n/a	n/a	n/a	LPUL	INS
+LPUL8	n/a	n/a	n/a	n/a	LPUL	SMG
+LPUL9	n/a	n/a	n/a	n/a	LPUL	SMG
+LPUL10	n/a	n/a	n/a	n/a	LPUL	SMG
+LPUL11	n/a	n/a	n/a	n/a	LPUL	SMG
+LPUL12	n/a	n/a	n/a	n/a	LPUL	SMG
+LPUL13	n/a	n/a	n/a	n/a	LPUL	SMG
+LPUL14	n/a	n/a	n/a	n/a	LPUL	SMG
+LPUL15	n/a	n/a	n/a	n/a	LPUL	SMG
+LPUL16	n/a	n/a	n/a	n/a	LPUL	SMG
+LHPC1	n/a	n/a	n/a	n/a	LHPC	HIPP
+LHPC2	n/a	n/a	n/a	n/a	LHPC	HIPP
+LHPC3	n/a	n/a	n/a	n/a	LHPC	HIPP
+LHPC4	n/a	n/a	n/a	n/a	LHPC	HIPP
+LHPC5	n/a	n/a	n/a	n/a	LHPC	HIPP
+LHPC6	n/a	n/a	n/a	n/a	LHPC	TP
+LHPC7	n/a	n/a	n/a	n/a	LHPC	TP
+LHPC8	n/a	n/a	n/a	n/a	LHPC	TP
+LHPC9	n/a	n/a	n/a	n/a	LHPC	WM
+LHPC10	n/a	n/a	n/a	n/a	LHPC	MTG
+LHPC11	n/a	n/a	n/a	n/a	LHPC	MTG
+LHPC12	n/a	n/a	n/a	n/a	LHPC	MTG
+LHPC13	n/a	n/a	n/a	n/a	LHPC	MTG
+LHPC14	n/a	n/a	n/a	n/a	LHPC	MTG
+LHPC15	n/a	n/a	n/a	n/a	LHPC	MTG
+LHPC16	n/a	n/a	n/a	n/a	LHPC	MTG
+LESp1	n/a	n/a	n/a	n/a	LESp	FG
+LESp2	n/a	n/a	n/a	n/a	LESp	FG
+LESp3	n/a	n/a	n/a	n/a	LESp	CS
+LESp4	n/a	n/a	n/a	n/a	LESp	CS
+LESp5	n/a	n/a	n/a	n/a	LESp	CS
+LESp6	n/a	n/a	n/a	n/a	LESp	CS
+LESp7	n/a	n/a	n/a	n/a	LESp	ITG
+LESp8	n/a	n/a	n/a	n/a	LESp	ITG
+LESp9	n/a	n/a	n/a	n/a	LESp	ITG
+LESp10	n/a	n/a	n/a	n/a	LESp	ITG
+LESp11	n/a	n/a	n/a	n/a	LESp	ITG
+LESp12	n/a	n/a	n/a	n/a	LESp	ITG
+LESp13	n/a	n/a	n/a	n/a	LESp	MTG
+LESp14	n/a	n/a	n/a	n/a	LESp	MTG
+LESp15	n/a	n/a	n/a	n/a	LESp	OUT OF BRAIN
+LESp16	n/a	n/a	n/a	n/a	LESp	OUT OF BRAIN
+LFus1	n/a	n/a	n/a	n/a	LFus	PHG
+LFus2	n/a	n/a	n/a	n/a	LFus	PHG
+LFus3	n/a	n/a	n/a	n/a	LFus	FG
+LFus4	n/a	n/a	n/a	n/a	LFus	FG
+LFus5	n/a	n/a	n/a	n/a	LFus	FG
+LFus6	n/a	n/a	n/a	n/a	LFus	CS
+LFus7	n/a	n/a	n/a	n/a	LFus	CS
+LFus8	n/a	n/a	n/a	n/a	LFus	ITG
+LFus9	n/a	n/a	n/a	n/a	LFus	ITG
+LFus10	n/a	n/a	n/a	n/a	LFus	ITG
+LFus11	n/a	n/a	n/a	n/a	LFus	ITG
+LFus12	n/a	n/a	n/a	n/a	LFus	ITG
+LFus13	n/a	n/a	n/a	n/a	LFus	MTG
+LFus14	n/a	n/a	n/a	n/a	LFus	MTG
+LFus15	n/a	n/a	n/a	n/a	LFus	MTG
+LFus16	n/a	n/a	n/a	n/a	LFus	OUT OF BRAIN
+LESa1	n/a	n/a	n/a	n/a	LESa	TP
+LESa2	n/a	n/a	n/a	n/a	LESa	TP
+LESa3	n/a	n/a	n/a	n/a	LESa	TP
+LESa4	n/a	n/a	n/a	n/a	LESa	TP
+LESa5	n/a	n/a	n/a	n/a	LESa	TP
+LESa6	n/a	n/a	n/a	n/a	LESa	TP
+LESa7	n/a	n/a	n/a	n/a	LESa	TP
+LESa8	n/a	n/a	n/a	n/a	LESa	TP
+LESa9	n/a	n/a	n/a	n/a	LESa	TP
+LESa10	n/a	n/a	n/a	n/a	LESa	ITG
+LESa11	n/a	n/a	n/a	n/a	LESa	ITG
+LESa12	n/a	n/a	n/a	n/a	LESa	ITG
+LESa13	n/a	n/a	n/a	n/a	LESa	ITG
+LESa14	n/a	n/a	n/a	n/a	LESa	OUT OF BRAIN
+LESa15	n/a	n/a	n/a	n/a	LESa	OUT OF BRAIN
+LESa16	n/a	n/a	n/a	n/a	LESa	OUT OF BRAIN
+LAMY1	n/a	n/a	n/a	n/a	LAMY	AMY
+LAMY2	n/a	n/a	n/a	n/a	LAMY	AMY
+LAMY3	n/a	n/a	n/a	n/a	LAMY	AMY
+LAMY4	n/a	n/a	n/a	n/a	LAMY	AMY
+LAMY5	n/a	n/a	n/a	n/a	LAMY	AMY
+LAMY6	n/a	n/a	n/a	n/a	LAMY	WM
+LAMY7	n/a	n/a	n/a	n/a	LAMY	WM
+LAMY8	n/a	n/a	n/a	n/a	LAMY	WM
+LAMY9	n/a	n/a	n/a	n/a	LAMY	WM
+LAMY10	n/a	n/a	n/a	n/a	LAMY	MTG
+LAMY11	n/a	n/a	n/a	n/a	LAMY	MTG
+LAMY12	n/a	n/a	n/a	n/a	LAMY	MTG
+LAMY13	n/a	n/a	n/a	n/a	LAMY	MTG
+LAMY14	n/a	n/a	n/a	n/a	LAMY	MTG
+LAMY15	n/a	n/a	n/a	n/a	LAMY	OUT OF BRAIN
+LAMY16	n/a	n/a	n/a	n/a	LAMY	OUT OF BRAIN
