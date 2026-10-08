@@ -1,8 +1,8 @@
-participant_id	age	sex	species	source_age	source_sex	sessions
-sub-SD168	n/a	n/a	homo sapiens	P18Y/	O	puffBaseline,puffInfusion,puffPostinfusion
-sub-SD172	n/a	n/a	homo sapiens	P18Y/	O	puffBaseline,puffInfusion,puffPostinfusion
-sub-SD181	n/a	n/a	homo sapiens	P18Y/	O	puffControl,puffInfusion,puffPostinfusion,puffPreinfusion
-sub-SD185	n/a	n/a	homo sapiens	P18Y/	O	puffBaseline,puffControl,puffInfusion,puffPostinfusion,puffPreinfusion
-sub-SD186	n/a	n/a	homo sapiens	P18Y/	O	puffControl,puffInfusion,puffPostinfusion,puffPreinfusion
-sub-SD211	n/a	n/a	homo sapiens	P18Y/	O	puffBaseline,puffControl,puffInfusion,puffPostinfusion,puffPostinfusionfast,puffPreinfusion
-sub-SD245	n/a	n/a	homo sapiens	P18Y/	O	puffBaseline,puffControl,puffInfusion,puffPostinfusion,puffPreinfusion
+participant_id	age	sex	species	source_age	source_sex	sessions	diagnosis	implant_type	n_contacts
+sub-SD168	n/a	n/a	homo sapiens	P18Y/	O	puffBaseline,puffInfusion,puffPostinfusion	epilepsy	sEEG	168
+sub-SD172	n/a	n/a	homo sapiens	P18Y/	O	puffBaseline,puffInfusion,puffPostinfusion	epilepsy	sEEG	174
+sub-SD181	n/a	n/a	homo sapiens	P18Y/	O	puffControl,puffInfusion,puffPostinfusion,puffPreinfusion	epilepsy	sEEG	122
+sub-SD185	n/a	n/a	homo sapiens	P18Y/	O	puffBaseline,puffControl,puffInfusion,puffPostinfusion,puffPreinfusion	epilepsy	sEEG	116
+sub-SD186	n/a	n/a	homo sapiens	P18Y/	O	puffControl,puffInfusion,puffPostinfusion,puffPreinfusion	epilepsy	sEEG	88
+sub-SD211	n/a	n/a	homo sapiens	P18Y/	O	puffBaseline,puffControl,puffInfusion,puffPostinfusion,puffPostinfusionfast,puffPreinfusion	epilepsy	sEEG	112
+sub-SD245	n/a	n/a	homo sapiens	P18Y/	O	puffBaseline,puffControl,puffInfusion,puffPostinfusion,puffPreinfusion	epilepsy	sEEG	206

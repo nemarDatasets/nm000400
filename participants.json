@@ -19,5 +19,14 @@
   },
   "sessions": {
     "Description": "Sessions with iEEG in this dataset."
+  },
+  "diagnosis": {
+    "Description": "Cohort-level: 'clinical adult epilepsy patients who were undergoing Phase 2 extended-stay monitoring in Stanford Hospital' (Kauvar et al. 2025, Methods); NWB subject.description='stereoEEG_patient'"
+  },
+  "implant_type": {
+    "Description": "NWB subject.description 'stereoEEG_patient'; paper Methods: AdTech depth electrodes, 12-16 platinum contacts"
+  },
+  "n_contacts": {
+    "Description": "rows of the NWB electrodes table (= columns of processing/ecephys/LFP/v_trace), counted in Voyager Job ieeg-b3enr-c-kauvar-1007220709"
   }
 }
