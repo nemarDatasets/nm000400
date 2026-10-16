@@ -1,9 +1,9 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Brain-wide human sEEG during aversive eyepuffs and ketamine infusion (Kauvar, Richman, Liu et al. 2025; DANDI 001347)",
-  "description": "Stereo-EEG recordings from seven adult epilepsy patients undergoing extended clinical monitoring at Stanford Hospital, acquired during brief aversive air puffs to the eye and around a 40-minute ketamine infusion (0.5 mg/kg). This BIDS-iEEG derivative converts the authors' NWB release (DANDI 001347) to BrainVision format in microvolts. The recordings are 20-minute windows downsampled to 200 Hz, with contacts labelled anatomically but without coordinates. The data support study of brain-wide emotional responses to sensory experience and their modulation by a dissociative drug.",
-  "methods_description": "sEEG was recorded with a Nihon Kohden JE-120 amplifier from AdTech platinum depth electrodes placed for clinical reasons. Signals were low-pass filtered with an FIR anti-aliasing filter and downsampled to 200 Hz. Each session was cut to a 20-minute window, with the eyepuff series starting 10 minutes in. Values were scaled to microvolts and written as float32 BrainVision files, with no further filtering or re-referencing.",
+  "title": "Kauvar-2025-conserved-10.1126/science.adt3971",
+  "description": "Stereo-EEG recordings from seven adult epilepsy patients undergoing extended clinical monitoring at Stanford Hospital, collected during brief aversive eyepuffs and a 40-minute ketamine infusion (0.5 mg/kg). The dataset is a BIDS-iEEG derivative of the NWB series released on DANDI (001347). Each recording is a 20-minute window downsampled to 200 Hz, with channel-level anatomical labels but no electrode coordinates. It supports study of brain-wide emotional responses to sensory experience and their modulation by a dissociative drug.",
+  "methods_description": "Clinical depth electrodes (AdTech, platinum contacts) were implanted for epilepsy monitoring and recorded with a Nihon Kohden JE-120 amplifier. The signal was anti-aliasing low-pass filtered (FIR) and downsampled to 200 Hz, and cut into 20-minute windows around a series of aversive eyepuffs (10 min before and after puff start). The NWB data were converted to BrainVision float32 in microvolts, scaled by the authors' scale_to_microvolts factor, with no further filtering, resampling, or re-referencing.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -60,7 +60,7 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
     },
     {
-      "term": "aversive stimuli"
+      "term": "aversive stimulus"
     },
     {
       "term": "Emotion-Focused Therapy",
@@ -146,5 +146,5 @@
     ".vmrk",
     ".yml"
   ],
-  "source_hash": "0403b7b1141bf91bb43156ac8594abba24bd10018e3bd3987532f1e7b9bf4a5b"
+  "source_hash": "c94ff77c18998428588f98aa69570194e1bf45825c5c23895e66c5faab7c2464"
 }
