@@ -1,5 +1,5 @@
 {
-  "Name": "Brain-wide human sEEG during aversive eyepuffs and ketamine infusion (Kauvar, Richman, Liu et al. 2025; DANDI 001347)",
+  "Name": "Kauvar-2025-conserved-10.1126/science.adt3971",
   "BIDSVersion": "1.10.0",
   "DatasetType": "derivative",
   "License": "CC-BY-4.0",
@@ -81,5 +81,5 @@
     }
   ],
   "DatasetDOI": "10.82901/nemar.nm000400",
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }
